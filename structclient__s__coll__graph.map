@@ -1,0 +1,15 @@
+<map id="client_s" name="client_s">
+<area shape="rect" id="Node000001" title="Représente un client connecté au serveur." alt="" coords="60,93,132,119"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="147,97,155,100,159,106,150,115,133,117,132,111,148,110,153,106,152,104,145,102"/>
+<area shape="rect" id="Node000005" href="$structcommand__s.html" title=" " alt="" coords="45,181,147,207"/>
+<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="48,119,27,129,12,144,9,155,15,165,46,180,44,184,11,168,3,156,7,141,24,125,45,114"/>
+<area shape="rect" id="Node000002" href="$structteam__s.html" title=" " alt="" coords="61,5,131,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,45,99,93,93,93,93,45"/>
+<area shape="rect" id="Node000003" href="$structqueue__s.html" title="Représente une file d&#39;attente de commandes." alt="" coords="135,372,211,397"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,359,210,315,231,259,237,228,238,199,232,170,218,144,201,128,179,118,132,109,133,104,180,113,203,124,222,141,237,168,243,198,242,229,236,260,215,318,191,362"/>
+<area shape="rect" id="Node000004" href="$structnode__s.html" title="Représente un nœud dans une file d&#39;attente de commandes." alt="" coords="73,269,141,295"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="124,305,168,371,164,373,120,308"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="156,273,164,276,167,282,159,291,142,293,141,287,157,286,162,282,160,280,154,278"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="93,167,93,119,99,119,99,167"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="102,220,108,268,103,269,97,221"/>
+</map>

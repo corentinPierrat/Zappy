@@ -1,0 +1,6 @@
+<map id="command_eject" name="command_eject">
+<area shape="rect" id="Node000001" title="Commande &quot;eject&quot;: Ejecte un client d&#39;une case." alt="" coords="5,29,132,55"/>
+<area shape="rect" id="Node000002" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="180,29,296,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,39,166,39,166,45,132,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="210,31,204,21,207,11,219,5,238,3,261,6,271,15,267,19,259,11,238,8,220,10,211,15,209,20,214,28"/>
+</map>

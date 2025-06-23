@@ -1,0 +1,44 @@
+<map id="send_to_client" name="send_to_client">
+<area shape="rect" id="Node000001" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="227,475,343,500"/>
+<area shape="poly" id="edge21_Node000001_Node000001" title=" " alt="" coords="319,464,309,456,285,453,264,455,254,460,251,466,257,473,253,476,246,466,250,456,263,450,285,448,311,452,322,460"/>
+<area shape="rect" id="Node000002" href="$command__take_8c.html#a0c2dc8e299a78d3c7fb8909a0ca38e92" title="Vérifie si la ressource demandée est valide." alt="" coords="31,5,153,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,461,266,368,246,243,232,180,216,122,197,75,177,44,152,28,155,24,181,40,202,73,221,120,237,178,251,242,272,367,283,461"/>
+<area shape="rect" id="Node000003" href="$command__bct_8c.html#ac348cdb244813b2c5a0af2fde8160828" title="Commande &quot;bct&quot; : envoie les ressources d&#39;une tuile spécifique au client." alt="" coords="35,55,149,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,462,264,378,242,267,213,162,195,121,177,93,164,83,149,77,151,72,167,79,181,89,200,118,218,160,248,266,269,377,282,461"/>
+<area shape="rect" id="Node000004" href="$command__broadcast_8c.html#a0a2bb6e66c6e88821c2dad0171998b65" title="Commande &quot;broadcast&quot;: Envoie un message à tous les clients." alt="" coords="13,104,171,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,461,277,397,262,311,249,265,231,221,207,179,177,143,161,132,164,127,180,139,212,176,236,218,254,264,267,310,282,396,286,461"/>
+<area shape="rect" id="Node000005" href="$command__connect__nbr_8c.html#a75fbdf25b334f3e79d39d78e1ceea1b9" title="Commande &quot;ConnectNbr&quot; : envoie le nombre de slots disponibles." alt="" coords="5,153,179,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="279,461,272,405,256,332,243,294,225,257,204,222,177,192,161,181,164,177,180,188,208,219,230,254,248,292,261,331,278,404,285,461"/>
+<area shape="rect" id="Node000006" href="$command__eject_8c.html#a050406748a9811d87904bef84a81a8fc" title="Commande &quot;eject&quot;: Ejecte un client d&#39;une case." alt="" coords="29,203,155,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="277,461,267,414,249,354,220,293,200,266,177,241,154,228,157,223,180,237,204,262,224,291,254,352,273,412,282,460"/>
+<area shape="rect" id="Node000007" href="$command__forward_8c.html#a5d971d1a618f50a2287172aba534bebc" title="Commande &quot;Forward&quot; : déplace le client d&#39;une case." alt="" coords="20,252,164,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="274,462,262,424,242,377,214,330,177,291,158,280,161,275,180,287,218,327,247,375,267,422,279,460"/>
+<area shape="rect" id="Node000008" href="$command__inventory_8c.html#aff6d36991615a547b5f0e404ff1c0260" title="Commande &quot;Inventory&quot; : envoie l&#39;inventaire du client." alt="" coords="14,301,170,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="270,463,234,401,208,368,177,340,156,329,159,324,180,336,212,364,239,398,275,461"/>
+<area shape="rect" id="Node000009" href="$command__left_8c.html#aa798c4b5306c0c363f266605c3a643c4" title="Commande &quot;Left&quot; : fait tourner le client à gauche." alt="" coords="35,351,149,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="263,466,226,426,177,390,148,377,151,372,180,385,229,422,267,462"/>
+<area shape="rect" id="Node000010" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="33,400,151,425"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="247,471,178,439,144,428,145,423,180,434,249,466"/>
+<area shape="rect" id="Node000011" href="$command__msz_8c.html#a8c506861faa708448e7591d45c22e0d0" title="Commande &quot;msz&quot; : envoie la taille de la carte au client." alt="" coords="31,449,153,475"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="213,481,153,473,153,467,213,475"/>
+<area shape="rect" id="Node000012" href="$command__pdi_8c.html#a3bc620fd5bafa7a0b1f0ef987fdcd9ac" title="Commande &quot;pdi&quot;: envoie un message de mort du client au GUI." alt="" coords="35,499,149,524"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="213,499,150,507,149,502,213,494"/>
+<area shape="rect" id="Node000013" href="$command__pdr_8c.html#a04cc18ac2e26f26435895d61f29b001a" title="Commande &quot;pdr&quot;: Envoie un message de dépôt de ressource au GUI." alt="" coords="35,548,149,573"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="247,509,180,538,142,550,140,545,178,533,245,504"/>
+<area shape="rect" id="Node000014" href="$command__pex_8c.html#af08aa33996a9c066a2d46fdef82c64fc" title="Commande &quot;pex&quot;: Envoie un message de prise de ressource au GUI." alt="" coords="33,597,151,623"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="266,512,229,551,180,587,151,600,149,595,177,582,225,547,262,509"/>
+<area shape="rect" id="Node000015" href="$command__pgt_8c.html#ad750c554fe829a42d2112feadfe4b6fc" title="Commande &quot;pgt&quot;: Envoie un message de prise de ressource au GUI." alt="" coords="35,647,149,672"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="274,514,238,575,212,608,180,636,151,651,148,646,177,632,208,604,234,572,270,511"/>
+<area shape="rect" id="Node000016" href="$command__pin_8c.html#ac37719bd76b529455c73eb629b37fce4" title="Commande &quot;pin&quot; : envoie l&#39;inventaire d&#39;un client spécifique." alt="" coords="35,696,149,721"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="279,514,266,552,246,598,218,645,180,685,151,701,148,696,177,681,214,642,242,596,261,550,274,512"/>
+<area shape="rect" id="Node000017" href="$command__plv_8c.html#a90f200b972774f433f54d352553b1f37" title="Commande &quot;plv&quot; : envoie le niveau d&#39;un client spécifique." alt="" coords="35,745,149,771"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="282,514,272,561,253,621,224,682,204,710,180,735,151,751,148,747,177,731,200,707,219,679,248,619,267,560,277,513"/>
+<area shape="rect" id="Node000018" href="$command__ppo_8c.html#a22b823725e3c56e1027f727a1b63346d" title="Commande &quot;ppo&quot; : envoie l&#39;orientation et les coordonnées d&#39;un client spécifique." alt="" coords="33,795,151,820"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="284,514,277,569,260,642,247,680,230,718,208,753,180,784,153,800,150,796,177,780,203,750,225,715,242,678,255,640,272,569,279,513"/>
+<area shape="rect" id="Node000019" href="$command__right_8c.html#a3b7cd14c6501bdbf68c5d688bf209ea8" title="Commande &quot;Right&quot; : fait tourner le client à droite." alt="" coords="30,844,154,869"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="286,514,282,578,267,664,253,709,235,754,211,796,180,833,156,849,153,844,177,829,207,793,230,752,248,708,262,662,276,577,281,514"/>
+<area shape="rect" id="Node000020" href="$command__sgt_8c.html#a84b9a9324a5e9f62a3c261f0a51c1d71" title="Commande &quot;sgt&quot; : envoie la fréquence." alt="" coords="35,893,149,919"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="282,514,269,597,247,707,217,813,200,854,181,882,167,893,151,900,149,896,164,889,177,879,195,851,212,811,242,706,264,596,277,513"/>
+<area shape="rect" id="Node000021" href="$command__sst_8c.html#ad3d1e38d6e9ae93e822c2bdcb034eef2" title="Commande &quot;sst&quot; : change la fréquence du serveur." alt="" coords="35,943,149,968"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="283,514,271,606,250,731,220,852,202,899,181,932,166,943,150,950,148,945,164,938,177,928,197,897,215,850,245,730,266,606,278,513"/>
+</map>

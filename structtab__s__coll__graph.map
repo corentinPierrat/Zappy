@@ -1,0 +1,17 @@
+<map id="tab_s" name="tab_s">
+<area shape="rect" id="Node000001" title="Structure de liaison commande / fonction." alt="" coords="5,181,63,207"/>
+<area shape="rect" id="Node000002" href="$structclient__s.html" title="Représente un client connecté au serveur." alt="" coords="130,93,202,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,117,87,128,60,145,47,163,39,182,34,180,42,160,56,141,85,123,116,112"/>
+<area shape="poly" id="edge9_Node000002_Node000002" title=" " alt="" coords="217,97,225,100,229,106,220,115,203,117,202,111,218,110,223,106,222,104,215,102"/>
+<area shape="rect" id="Node000006" href="$structcommand__s.html" title=" " alt="" coords="159,181,261,207"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="136,129,124,143,123,149,126,156,141,171,160,181,158,185,138,175,121,159,118,150,120,141,132,125"/>
+<area shape="rect" id="Node000003" href="$structteam__s.html" title=" " alt="" coords="131,5,201,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,45,169,93,163,93,163,45"/>
+<area shape="rect" id="Node000004" href="$structqueue__s.html" title="Représente une file d&#39;attente de commandes." alt="" coords="248,372,324,397"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="297,358,318,314,336,256,340,226,339,197,332,169,317,145,299,133,270,124,202,113,203,108,271,119,302,128,321,141,337,167,345,196,346,227,341,258,323,316,302,361"/>
+<area shape="rect" id="Node000005" href="$structnode__s.html" title="Représente un nœud dans une file d&#39;attente de commandes." alt="" coords="187,269,255,295"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,305,281,371,276,373,233,308"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="270,273,278,276,281,282,273,291,255,293,255,287,271,286,276,282,274,280,268,278"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="195,170,170,120,174,118,200,168"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="216,220,222,268,217,269,211,221"/>
+</map>

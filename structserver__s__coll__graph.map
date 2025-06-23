@@ -1,0 +1,22 @@
+<map id="server_s" name="server_s">
+<area shape="rect" id="Node000001" title="Structure principale du serveur." alt="" coords="382,196,459,221"/>
+<area shape="rect" id="Node000002" href="$structteam__s.html" title=" " alt="" coords="269,5,340,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="342,35,379,59,412,92,425,111,432,129,431,172,427,196,421,195,426,172,426,130,420,114,408,95,375,63,339,40"/>
+<area shape="rect" id="Node000003" href="$structclient__s.html" title="Représente un client connecté au serveur." alt="" coords="126,93,198,119"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="275,40,183,95,180,91,273,35"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,115,249,126,287,140,310,155,331,170,387,193,385,198,329,174,307,159,285,145,248,131,211,120"/>
+<area shape="poly" id="edge10_Node000003_Node000003" title=" " alt="" coords="213,97,221,100,225,106,216,115,199,117,198,111,214,110,219,106,218,104,211,102"/>
+<area shape="rect" id="Node000006" href="$structcommand__s.html" title=" " alt="" coords="111,196,213,221"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="114,119,93,129,78,144,73,157,78,171,93,185,112,195,110,200,90,190,73,173,67,157,73,141,90,125,111,114"/>
+<area shape="rect" id="Node000004" href="$structqueue__s.html" title="Représente une file d&#39;attente de commandes." alt="" coords="5,387,81,412"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="33,374,20,315,18,280,21,245,32,188,42,165,63,141,93,121,125,110,127,116,95,126,66,145,47,168,37,190,26,246,23,280,25,315,38,373"/>
+<area shape="rect" id="Node000005" href="$structnode__s.html" title="Représente un nœud dans une file d&#39;attente de commandes." alt="" coords="97,284,165,309"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="114,322,55,388,51,385,110,318"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="180,287,188,290,192,297,184,305,166,307,166,302,181,300,187,296,185,294,178,292"/>
+<area shape="poly" id="edge9_Node000003_Node000006" title=" " alt="" coords="159,182,159,119,165,119,165,182"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="156,235,138,284,133,283,151,233"/>
+<area shape="rect" id="Node000007" href="$structgame__time__s.html" title=" " alt="" coords="517,93,628,119"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="545,129,439,198,436,194,542,124"/>
+<area shape="rect" id="Node000008" href="$structtile__s.html" title=" " alt="" coords="341,93,399,119"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="380,131,398,171,413,194,409,197,393,173,375,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="command_msz" name="command_msz">
+<area shape="rect" id="Node000001" title="Commande &quot;msz&quot; : envoie la taille de la carte au client." alt="" coords="5,29,127,55"/>
+<area shape="rect" id="Node000002" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="175,29,291,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,39,161,39,161,45,127,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="205,31,199,21,202,11,214,5,233,3,255,6,265,15,262,19,253,11,233,8,215,10,206,15,204,20,209,28"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="command_sst" name="command_sst">
+<area shape="rect" id="Node000001" title="Commande &quot;sst&quot; : change la fréquence du serveur." alt="" coords="5,29,119,55"/>
+<area shape="rect" id="Node000002" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="167,29,283,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,39,153,39,153,45,119,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="197,31,192,21,195,11,206,5,225,3,247,6,257,15,253,19,245,11,225,8,208,10,199,15,197,20,202,28"/>
+</map>

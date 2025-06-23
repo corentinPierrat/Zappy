@@ -1,0 +1,6 @@
+<map id="command_inventory" name="command_inventory">
+<area shape="rect" id="Node000001" title="Commande &quot;Inventory&quot; : envoie l&#39;inventaire du client." alt="" coords="5,29,161,55"/>
+<area shape="rect" id="Node000002" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="209,29,325,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,39,195,39,195,45,162,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="237,31,230,21,234,11,246,5,267,3,293,6,303,15,300,19,291,11,267,8,248,10,238,15,236,20,241,28"/>
+</map>
