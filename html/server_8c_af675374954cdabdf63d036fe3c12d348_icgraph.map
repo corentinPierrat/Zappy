@@ -1,0 +1,7 @@
+<map id="signal_handler" name="signal_handler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="255,5,372,31"/>
+<area shape="rect" id="Node000002" href="$server_8c.html#a9ecccd938154ccc1315938215b91c1d1" title="Boucle principale du serveur." alt="" coords="108,5,207,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,21,207,21,207,15,241,15"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#abf9e6b7e6f15df4b525a2e7705ba3089" title=" " alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,21,60,21,60,15,94,15"/>
+</map>

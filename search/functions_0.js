@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['accept_5fnew_5fclient_0',['accept_new_client',['../my_8h.html#a581c9ee6f64450659407453e27021244',1,'handle_client.c']]],
-  ['add_5fclient_1',['add_client',['../my_8h.html#af39dfc15bc59789fc15d174c64df74b1',1,'client.c']]]
+  ['_5f_5finit_5f_5f_0',['__init__',['../classnetwork_1_1NetworkManager.html#a10a2a7a71e3a5544f3a71357b10a77c5',1,'network.NetworkManager.__init__()'],['../classnetwork_1_1SharedInventory.html#a13215872ecad16c3c47e3650247c72b4',1,'network.SharedInventory.__init__()'],['../classnetwork_1_1CoordinationManager.html#a356378d6c3b10a714b4c40498fb1d45a',1,'network.CoordinationManager.__init__()'],['../classnetwork_1_1GameState.html#a3c43282b483e7b5ba42fe24dd94a5782',1,'network.GameState.__init__()'],['../classnetwork_1_1MovementManager.html#abf1970f92d7788e745a2336e5d65e77e',1,'network.MovementManager.__init__()'],['../classnetwork_1_1BroadcastManager.html#a7f1300dd489b9f59c20dc6668a1ae552',1,'network.BroadcastManager.__init__()'],['../classnetwork_1_1CommandManager.html#a2f0f909c8ca669d3c25f0bb32cb61e95',1,'network.CommandManager.__init__()'],['../classnetwork_1_1Client.html#ac112beaa164924d6c8e27c1ceefa4a23',1,'network.Client.__init__()']]]
 ];

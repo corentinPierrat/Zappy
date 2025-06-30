@@ -1,0 +1,11 @@
+<map id="Hud::draw" name="Hud::draw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="444,31,532,56"/>
+<area shape="rect" id="Node000002" href="$classGame.html#a15ddd769261d923827a3cdf41499c843" title=" " alt="" coords="285,31,396,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,46,396,46,396,41,430,41"/>
+<area shape="rect" id="Node000003" href="$classClient.html#ae0bc335d720265d4d6e8a72cf7a2a9aa" title=" " alt="" coords="128,5,217,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,36,217,27,218,22,272,30"/>
+<area shape="rect" id="Node000005" href="$classGame.html#abc9436a9d18e48c6e1e4fbc4ea879449" title=" " alt="" coords="108,55,237,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="272,56,238,61,237,55,271,51"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Fonction principale du client." alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,21,60,21,60,15,115,15"/>
+</map>

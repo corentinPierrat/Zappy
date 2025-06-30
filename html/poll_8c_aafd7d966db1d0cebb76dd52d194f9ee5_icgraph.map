@@ -1,0 +1,5 @@
+<map id="get_respawn_left" name="get_respawn_left">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,5,355,31"/>
+<area shape="rect" id="Node000002" href="$poll_8c.html#adcf7a37cc9716c4285855dbb0d8911c4" title="Fonction pour obtenir le temps minimum d&#39;attente pour un client." alt="" coords="5,5,173,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,21,173,21,173,15,207,15"/>
+</map>

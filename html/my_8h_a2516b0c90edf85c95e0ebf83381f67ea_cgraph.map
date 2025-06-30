@@ -1,0 +1,10 @@
+<map id="check_after_incantation" name="check_after_incantation">
+<area shape="rect" id="Node000001" title="Vérifie si un client peut incanter à la fin." alt="" coords="5,56,183,81"/>
+<area shape="rect" id="Node000002" href="$command__pie_8c.html#a2566acc90f85f0310f28eeab6d80fcc9" title="Commande &quot;pie&quot;: Envoie les infos de la fin de l&#39;incantation." alt="" coords="249,5,363,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,53,239,31,240,36,149,58"/>
+<area shape="rect" id="Node000003" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="429,31,545,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="183,60,415,45,416,51,183,66"/>
+<area shape="rect" id="Node000004" href="$command__incantation_8c.html#af29ee98ee6477570ec8d8ab7fdf7f560" title=" " alt="" coords="231,107,381,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,79,240,101,239,106,148,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,23,416,31,415,36,363,29"/>
+</map>

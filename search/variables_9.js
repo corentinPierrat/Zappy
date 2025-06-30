@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['map_0',['map',['../structserver__s.html#a62eebad841321682c6e054dd0b972218',1,'server_s']]],
-  ['max_5fclients_1',['max_clients',['../structteam__s.html#ac465b1fd100b2d688bdaae61b55ca69c',1,'team_s']]]
+  ['join_5fbroadcast_5fcycle_0',['join_broadcast_cycle',['../classnetwork_1_1Client.html#ac95f71d526ef67ceeb913d6f8b3d8dfd',1,'network::Client']]],
+  ['joining_5fstarted_1',['joining_started',['../classnetwork_1_1CoordinationManager.html#aa145dc95d79f0cbec3d05ecb6b29f83d',1,'network::CoordinationManager']]]
 ];

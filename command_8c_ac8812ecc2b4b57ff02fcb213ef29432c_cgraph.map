@@ -1,0 +1,31 @@
+<map id="handle_auth" name="handle_auth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,217,108,243"/>
+<area shape="rect" id="Node000002" href="$command__auth_8c.html#a70a1d2080810f9eebebf1b9d296679f3" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="319,132,441,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,215,317,158,318,163,106,220"/>
+<area shape="rect" id="Node000009" href="$client_8c.html#a3ac2b447730cc2666a0c7af1656c5214" title="Supprime un client de la liste par son descripteur." alt="" coords="156,243,271,268"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="109,236,143,241,142,247,108,241"/>
+<area shape="rect" id="Node000003" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="491,5,609,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,130,433,91,488,48,508,35,511,40,491,52,437,96,396,134"/>
+<area shape="rect" id="Node000005" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="680,107,796,132"/>
+<area shape="poly" id="edge10_Node000002_Node000005" title=" " alt="" coords="400,130,440,109,489,91,539,85,590,86,638,92,680,101,679,106,637,97,590,91,539,90,490,97,442,113,403,134"/>
+<area shape="rect" id="Node000006" href="$command__msz_8c.html#a8c506861faa708448e7591d45c22e0d0" title="Commande &quot;msz&quot; : envoie la taille de la carte au client." alt="" coords="489,107,611,132"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="441,133,475,128,476,133,442,138"/>
+<area shape="rect" id="Node000007" href="$command__sgt_8c.html#a84b9a9324a5e9f62a3c261f0a51c1d71" title="Commande &quot;sgt&quot; : envoie la fréquence." alt="" coords="493,156,607,181"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="442,151,479,156,479,161,441,156"/>
+<area shape="rect" id="Node000008" href="$command__tna_8c.html#a4d0c76e3fa8367d912225ebc2c10266b" title="Commande &quot;tna&quot; : envoie les noms des équipes au client." alt="" coords="493,205,607,231"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="411,155,490,190,507,197,505,202,488,195,409,160"/>
+<area shape="rect" id="Node000004" href="$command__bct_8c.html#ae1e6d2b47d7257cb78f97f8777399a34" title="Fonction pour formatter la reponse bct." alt="" coords="659,5,817,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="609,15,645,15,645,21,609,21"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="576,28,612,48,703,98,700,102,609,52,574,33"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="611,117,666,117,666,122,611,122"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="598,153,675,133,676,138,600,159"/>
+<area shape="rect" id="Node000010" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="335,280,425,305"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="271,265,322,277,320,282,270,271"/>
+<area shape="rect" id="Node000011" href="$command__pdi_8c.html#a3bc620fd5bafa7a0b1f0ef987fdcd9ac" title="Commande &quot;pdi&quot;: envoie un message de mort du client au GUI." alt="" coords="493,255,607,280"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="425,283,479,275,479,281,426,289"/>
+<area shape="rect" id="Node000012" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="490,304,610,329"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="426,296,476,304,476,309,425,302"/>
+<area shape="rect" id="Node000013" href="$queue_8c.html#ac8395c96973c80c935435f6b31479397" title="Libère la mémoire allouée pour la file d&#39;attente." alt="" coords="503,353,597,379"/>
+<area shape="poly" id="edge16_Node000010_Node000013" title=" " alt="" coords="409,303,490,340,505,346,503,351,488,344,407,308"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="588,252,609,241,641,217,670,191,716,141,720,145,674,194,644,222,612,246,591,257"/>
+</map>
