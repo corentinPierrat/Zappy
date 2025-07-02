@@ -1,0 +1,5 @@
+<map id="command_right" name="command_right">
+<area shape="rect" id="Node000001" title="Commande &quot;Right&quot; : fait tourner le client à droite." alt="" coords="5,5,129,31"/>
+<area shape="rect" id="Node000002" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="177,5,293,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,15,164,15,164,21,130,21"/>
+</map>

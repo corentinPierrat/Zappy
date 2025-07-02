@@ -1,0 +1,31 @@
+<map id="free_command" name="free_command">
+<area shape="rect" id="Node000001" title="Fonction pour free une commande." alt="" coords="743,104,863,129"/>
+<area shape="rect" id="Node000002" href="$command__take_8c.html#a0d033b8c87134eb0bbe8928c1a33f18c" title="Vérifie si la ressource demandée est valide." alt="" coords="550,29,673,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="764,100,694,68,660,57,662,52,696,64,766,95"/>
+<area shape="rect" id="Node000005" href="$command__eject_8c.html#a050406748a9811d87904bef84a81a8fc" title="Commande &quot;eject&quot;: Ejecte un client d&#39;une case." alt="" coords="548,79,675,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="728,110,675,102,675,97,729,104"/>
+<area shape="rect" id="Node000006" href="$command__incantation_8c.html#a2a4ab48531738f3ba4e63cc6621ee00a" title="Commande &quot;Incantation&quot;: permet à un client d&#39;incanter." alt="" coords="528,128,695,153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="729,129,695,133,694,128,728,123"/>
+<area shape="rect" id="Node000007" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="566,177,657,203"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="764,138,696,167,658,180,656,175,694,162,762,133"/>
+<area shape="rect" id="Node000003" href="$command__set_8c.html#a9c6ae75be8093238113061e48b85593a" title="Commande &quot;set&quot;: permet à un client de déposer une ressource." alt="" coords="361,5,476,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="536,35,476,28,477,22,537,30"/>
+<area shape="rect" id="Node000004" href="$command__take_8c.html#a5d2340b51f3c2c893e838f6b769964d3" title="Commande &quot;Take&quot; : permet à un client de prendre une ressource." alt="" coords="357,55,480,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="537,54,481,62,480,57,536,49"/>
+<area shape="rect" id="Node000008" href="$client_8c.html#a3ac2b447730cc2666a0c7af1656c5214" title="Supprime un client de la liste par son descripteur." alt="" coords="361,177,476,203"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="553,193,476,193,476,187,553,187"/>
+<area shape="rect" id="Node000009" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="185,79,288,104"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="390,171,352,144,308,118,281,107,283,102,311,113,355,139,393,167"/>
+<area shape="rect" id="Node000011" href="$handle__client_8c.html#aec039948b7edeea6776d372b9f1aadef" title="Fonction pour traiter les commandes d&#39;un client." alt="" coords="167,128,306,153"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="358,176,284,156,285,151,359,171"/>
+<area shape="rect" id="Node000012" href="$poll_8c.html#ae28bb2ab8a12506876b97f193706e496" title=" " alt="" coords="177,177,296,203"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="347,193,297,193,297,187,347,187"/>
+<area shape="rect" id="Node000013" href="$client_8c.html#a5f717f97b3b54ce2777860ec09499f1f" title="Fonction pour supprimer tous les clients." alt="" coords="164,227,309,252"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="359,209,285,229,284,224,358,204"/>
+<area shape="rect" id="Node000014" href="$game_8c.html#ab351a22fe1006305dfc1022401ef7464" title=" " alt="" coords="185,276,288,301"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="392,213,354,240,311,266,281,278,278,273,308,261,352,235,389,209"/>
+<area shape="rect" id="Node000010" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,79,116,104"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="172,94,116,94,116,89,172,89"/>
+<area shape="rect" id="Node000015" href="$game_8c.html#adb2c3fc6837f9e3291e938d6b4d5360e" title="boucle principale du jeu." alt="" coords="13,276,108,301"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="172,291,108,291,108,286,172,286"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="command_eject" name="command_eject">
+<area shape="rect" id="Node000001" title="Commande &quot;eject&quot;: Ejecte un client d&#39;une case." alt="" coords="5,56,132,81"/>
+<area shape="rect" id="Node000002" href="$command__pex_8c.html#af08aa33996a9c066a2d46fdef82c64fc" title="Commande &quot;pex&quot;: Envoie un message de prise de ressource au GUI." alt="" coords="181,5,299,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,53,182,32,184,37,113,58"/>
+<area shape="rect" id="Node000003" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="348,31,464,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="132,61,334,46,335,51,132,67"/>
+<area shape="rect" id="Node000004" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="180,107,300,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="113,79,184,100,182,105,112,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,24,335,30,334,35,299,30"/>
+</map>

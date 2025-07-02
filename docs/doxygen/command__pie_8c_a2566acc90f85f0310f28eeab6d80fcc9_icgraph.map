@@ -1,0 +1,5 @@
+<map id="command_pie" name="command_pie">
+<area shape="rect" id="Node000001" title="Commande &quot;pie&quot;: Envoie les infos de la fin de l&#39;incantation." alt="" coords="231,5,345,31"/>
+<area shape="rect" id="Node000002" href="$command__incantation_8c.html#a2516b0c90edf85c95e0ebf83381f67ea" title="Vérifie si un client peut incanter à la fin." alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,21,183,21,183,15,217,15"/>
+</map>

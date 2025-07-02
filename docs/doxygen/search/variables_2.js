@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['client_5fid_0',['client_id',['../classnetwork_1_1CoordinationManager.html#a2ac885512cfb5233bf1320c1266d0f03',1,'network.CoordinationManager.client_id'],['../classnetwork_1_1BroadcastManager.html#a4d281ac5fd741ff82b47d004cedbf5d2',1,'network.BroadcastManager.client_id'],['../classnetwork_1_1NetworkManager.html#a8917df522ccfbb77d395bace57642c73',1,'network.NetworkManager.client_id']]],
+  ['client_5fids_1',['client_ids',['../classnetwork_1_1CoordinationManager.html#ab98b19cfd2a04ff60b8ab2e41284ad98',1,'network::CoordinationManager']]],
+  ['clients_2',['clients',['../structserver__s.html#a44bb3e5e860bf4c229b3a1f380b856b7',1,'server_s']]],
+  ['clients_5fwho_5fdropped_3',['clients_who_dropped',['../classnetwork_1_1CoordinationManager.html#a5358c00e68e8eea6d736835d0f67f098',1,'network::CoordinationManager']]],
+  ['collection_5fcomplete_4',['collection_complete',['../classnetwork_1_1GameState.html#ad404fee67455dcd8743041f1424a9e88',1,'network::GameState']]],
+  ['command_5',['command',['../structcommand__s.html#a2fc6b3598d2c6cce57fd34224f622fe1',1,'command_s::command'],['../structnode__s.html#af53b1dbcc4e258fa277bc623450af1d1',1,'node_s::command'],['../structtab__s.html#a2a255410d0ffcba47ef11cf989cd3810',1,'tab_s::command']]],
+  ['command_5fmanager_6',['command_manager',['../classnetwork_1_1Client.html#a17be25a845c47e924c8adbccf51ca153',1,'network::Client']]],
+  ['command_5fqueue_7',['command_queue',['../classnetwork_1_1CommandManager.html#a16432166a3c51b5bee9460565cf5f5d0',1,'network::CommandManager']]],
+  ['commands_5fin_5fwait_8',['commands_in_wait',['../classnetwork_1_1CommandManager.html#a0d9f9cbfab1a2fba7f8c3541584b06e9',1,'network::CommandManager']]],
+  ['connected_9',['connected',['../classnetwork_1_1NetworkManager.html#a3b1707cba8076c47152bb5b797408142',1,'network::NetworkManager']]],
+  ['connected_5fclients_10',['connected_clients',['../structteam__s.html#af0a6f3c2e0727de3eca000df9178ba28',1,'team_s']]],
+  ['coordination_11',['coordination',['../classnetwork_1_1Client.html#aedd88e6ae0fbb26a542e30092d4b2706',1,'network::Client']]],
+  ['coordination_5fcycles_12',['coordination_cycles',['../classnetwork_1_1CoordinationManager.html#a60f4d7a66ddabc8515677cc8ac1e4a5b',1,'network::CoordinationManager']]],
+  ['coordination_5fstarted_13',['coordination_started',['../classnetwork_1_1CoordinationManager.html#a56c2bccb5e036c579cdbf69f98f7de37',1,'network::CoordinationManager']]],
+  ['coordinator_5fdetermined_14',['coordinator_determined',['../classnetwork_1_1CoordinationManager.html#a816802378fe5e140e81f7f84ab2f64a5',1,'network::CoordinationManager']]],
+  ['coordinator_5fid_15',['coordinator_id',['../classnetwork_1_1CoordinationManager.html#a77f4474b5ea1aa31e3357af1c74ec726',1,'network::CoordinationManager']]],
+  ['current_5fcommand_16',['current_command',['../structclient__s.html#a252b7c8f3b27cf7409361ba58980cbec',1,'client_s']]]
+];

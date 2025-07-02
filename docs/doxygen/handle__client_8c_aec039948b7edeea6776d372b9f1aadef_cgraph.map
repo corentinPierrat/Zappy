@@ -1,0 +1,17 @@
+<map id="handle_command" name="handle_command">
+<area shape="rect" id="Node000001" title="Fonction pour traiter les commandes d&#39;un client." alt="" coords="5,31,144,56"/>
+<area shape="rect" id="Node000002" href="$client_8c.html#af848207a806ae31fce61993dc02c8fa0" title="Cherche un client dans la liste par son descripteur." alt="" coords="205,5,294,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,31,191,24,192,29,145,36"/>
+<area shape="rect" id="Node000003" href="$client_8c.html#a3ac2b447730cc2666a0c7af1656c5214" title="Supprime un client de la liste par son descripteur." alt="" coords="192,55,307,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,50,179,55,178,60,144,56"/>
+<area shape="rect" id="Node000004" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="355,55,445,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="307,65,341,65,341,70,307,70"/>
+<area shape="rect" id="Node000005" href="$command__pdi_8c.html#a3bc620fd5bafa7a0b1f0ef987fdcd9ac" title="Commande &quot;pdi&quot;: envoie un message de mort du client au GUI." alt="" coords="496,5,611,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="439,52,499,33,501,38,441,57"/>
+<area shape="rect" id="Node000007" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="493,55,613,80"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="446,65,479,65,479,70,446,70"/>
+<area shape="rect" id="Node000008" href="$queue_8c.html#ac8395c96973c80c935435f6b31479397" title="Libère la mémoire allouée pour la file d&#39;attente." alt="" coords="506,104,601,129"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="441,78,501,97,499,102,439,83"/>
+<area shape="rect" id="Node000006" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="661,5,777,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="611,15,648,15,648,21,611,21"/>
+</map>

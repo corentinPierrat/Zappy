@@ -1,0 +1,23 @@
+<map id="gui/egg.hpp" name="gui/egg.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,5,360,31"/>
+<area shape="rect" id="Node000002" href="$Game_8hpp.html" title=" " alt="" coords="190,79,303,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,43,259,80,255,77,289,39"/>
+<area shape="rect" id="Node000009" href="$egg_8cpp.html" title=" " alt="" coords="327,79,425,104"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="333,39,367,77,363,80,329,43"/>
+<area shape="rect" id="Node000003" href="$Client_8cpp.html" title=" " alt="" coords="277,225,387,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,115,327,224,323,226,258,118"/>
+<area shape="rect" id="Node000004" href="$Game_8cpp.html" title=" " alt="" coords="5,225,117,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="177,102,149,108,121,119,96,134,74,154,65,171,61,190,62,225,57,225,56,189,60,169,70,150,92,129,119,114,148,103,176,96"/>
+<area shape="rect" id="Node000005" href="$Hud_8cpp.html" title=" " alt="" coords="149,225,248,251"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="241,118,205,226,200,224,236,116"/>
+<area shape="rect" id="Node000006" href="$Hud_8hpp.html" title=" " alt="" coords="83,152,183,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="218,114,153,154,150,150,215,109"/>
+<area shape="rect" id="Node000007" href="$command_8cpp.html" title=" " alt="" coords="413,225,552,251"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="318,102,402,122,438,135,462,150,474,168,481,189,486,225,480,225,476,190,469,170,458,154,436,140,400,127,316,107"/>
+<area shape="rect" id="Node000008" href="$command_8hpp.html" title=" " alt="" coords="309,152,448,177"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="281,108,358,149,356,154,278,113"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="113,189,75,227,71,223,110,185"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="155,186,190,223,186,227,151,189"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="366,190,342,227,337,224,361,187"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="408,183,467,223,464,227,405,187"/>
+</map>

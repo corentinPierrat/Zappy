@@ -1,0 +1,7 @@
+<map id="command_mct" name="command_mct">
+<area shape="rect" id="Node000001" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="5,31,124,56"/>
+<area shape="rect" id="Node000002" href="$command__bct_8c.html#ae1e6d2b47d7257cb78f97f8777399a34" title="Fonction pour formatter la reponse bct." alt="" coords="172,5,331,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,33,158,28,159,33,125,38"/>
+<area shape="rect" id="Node000003" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="193,55,309,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,48,180,55,179,61,124,54"/>
+</map>
