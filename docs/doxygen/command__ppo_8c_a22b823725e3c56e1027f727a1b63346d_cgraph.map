@@ -1,7 +1,0 @@
-<map id="command_ppo" name="command_ppo">
-<area shape="rect" id="Node000001" title="Commande &quot;ppo&quot; : envoie l&#39;orientation et les coordonnées d&#39;un client spécifique." alt="" coords="5,31,124,56"/>
-<area shape="rect" id="Node000002" href="$client_8c.html#af848207a806ae31fce61993dc02c8fa0" title="Cherche un client dans la liste par son descripteur." alt="" coords="185,5,275,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,32,171,24,172,30,125,37"/>
-<area shape="rect" id="Node000003" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="172,55,288,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,49,159,54,158,60,124,55"/>
-</map>

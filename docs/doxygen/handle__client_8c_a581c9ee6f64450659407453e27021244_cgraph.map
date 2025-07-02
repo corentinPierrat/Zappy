@@ -1,7 +1,0 @@
-<map id="accept_new_client" name="accept_new_client">
-<area shape="rect" id="Node000001" title="Fonction pour accepter un nouveau client." alt="" coords="5,5,148,31"/>
-<area shape="rect" id="Node000002" href="$client_8c.html#ac057d4067a288f7eb8a3ebe05dabed4d" title="Ajoute un client à la liste des clients." alt="" coords="196,5,285,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,15,182,15,182,21,148,21"/>
-<area shape="rect" id="Node000003" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="333,5,449,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,15,320,15,320,21,286,21"/>
-</map>

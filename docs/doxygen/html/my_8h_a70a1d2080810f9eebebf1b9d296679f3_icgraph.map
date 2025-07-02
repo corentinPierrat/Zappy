@@ -1,0 +1,5 @@
+<map id="command_auth" name="command_auth">
+<area shape="rect" id="node1" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="292,5,403,31"/>
+<area shape="rect" id="node2" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="152,5,244,31"/>
+<area shape="rect" id="node3" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,5,104,31"/>
+</map>

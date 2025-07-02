@@ -1,0 +1,5 @@
+<map id="accept_new_client" name="accept_new_client">
+<area shape="rect" id="node1" title="Fonction pour accepter un nouveau client." alt="" coords="5,5,136,31"/>
+<area shape="rect" id="node2" href="$client_8c.html#ac057d4067a288f7eb8a3ebe05dabed4d" title="Ajoute un client à la liste des clients." alt="" coords="184,5,265,31"/>
+<area shape="rect" id="node3" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="313,5,420,31"/>
+</map>

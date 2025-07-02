@@ -1,0 +1,48 @@
+<map id="send_to_client" name="send_to_client">
+<area shape="rect" id="node1" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="1039,791,1145,816"/>
+<area shape="rect" id="node2" href="$client_8c.html#ac057d4067a288f7eb8a3ebe05dabed4d" title="Ajoute un client à la liste des clients." alt="" coords="897,5,978,31"/>
+<area shape="rect" id="node4" href="$command__incantation_8c.html#a2516b0c90edf85c95e0ebf83381f67ea" title="Vérifie si un client peut incanter à la fin." alt="" coords="676,81,836,107"/>
+<area shape="rect" id="node5" href="$command__take_8c.html#a0d033b8c87134eb0bbe8928c1a33f18c" title="Vérifie si la ressource demandée est valide." alt="" coords="699,461,813,487"/>
+<area shape="rect" id="node8" href="$command__auth_8c.html#a70a1d2080810f9eebebf1b9d296679f3" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="302,943,413,968"/>
+<area shape="rect" id="node11" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="884,765,991,791"/>
+<area shape="rect" id="node13" href="$command__bct_8c.html#ac348cdb244813b2c5a0af2fde8160828" title="Commande &quot;bct&quot; : envoie les ressources d&#39;une tuile spécifique au client." alt="" coords="497,523,601,548"/>
+<area shape="rect" id="node14" href="$command__broadcast_8c.html#a0a2bb6e66c6e88821c2dad0171998b65" title="Commande &quot;broadcast&quot;: Envoie un message à tous les clients." alt="" coords="478,208,621,233"/>
+<area shape="rect" id="node15" href="$command__connect__nbr_8c.html#a75fbdf25b334f3e79d39d78e1ceea1b9" title="Commande &quot;ConnectNbr&quot; : envoie le nombre de slots disponibles." alt="" coords="471,572,628,597"/>
+<area shape="rect" id="node16" href="$command__eject_8c.html#a050406748a9811d87904bef84a81a8fc" title="Commande &quot;eject&quot;: Ejecte un client d&#39;une case." alt="" coords="492,309,607,335"/>
+<area shape="rect" id="node17" href="$command__fork_8c.html#a5e351863001e016c39d72792d9a09c3e" title="Commande &quot;fork&quot;: Crée un nouvel oeuf." alt="" coords="495,621,603,647"/>
+<area shape="rect" id="node18" href="$command__forward_8c.html#a5d971d1a618f50a2287172aba534bebc" title="Commande &quot;Forward&quot; : déplace le client d&#39;une case." alt="" coords="485,671,614,696"/>
+<area shape="rect" id="node19" href="$command__incantation_8c.html#a7a4e14d18d555a1c5b6b690a0dd48f2d" title=" " alt="" coords="475,375,624,400"/>
+<area shape="rect" id="node20" href="$command__inventory_8c.html#aff6d36991615a547b5f0e404ff1c0260" title="Commande &quot;Inventory&quot; : envoie l&#39;inventaire du client." alt="" coords="480,720,619,745"/>
+<area shape="rect" id="node21" href="$command__left_8c.html#aa798c4b5306c0c363f266605c3a643c4" title="Commande &quot;Left&quot; : fait tourner le client à gauche." alt="" coords="497,917,601,943"/>
+<area shape="rect" id="node22" href="$commande__look_8c.html#a81339befb98098c927b514c4cf8976c1" title=" " alt="" coords="494,967,605,992"/>
+<area shape="rect" id="node23" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="495,1016,603,1041"/>
+<area shape="rect" id="node24" href="$command__msz_8c.html#a8c506861faa708448e7591d45c22e0d0" title="Commande &quot;msz&quot; : envoie la taille de la carte au client." alt="" coords="494,819,605,844"/>
+<area shape="rect" id="node25" href="$command__pin_8c.html#ac37719bd76b529455c73eb629b37fce4" title="Commande &quot;pin&quot; : envoie l&#39;inventaire d&#39;un client spécifique." alt="" coords="498,1068,601,1093"/>
+<area shape="rect" id="node26" href="$command__plv_8c.html#a90f200b972774f433f54d352553b1f37" title="Commande &quot;plv&quot; : envoie le niveau d&#39;un client spécifique." alt="" coords="498,1119,601,1144"/>
+<area shape="rect" id="node27" href="$command__ppo_8c.html#a22b823725e3c56e1027f727a1b63346d" title="Commande &quot;ppo&quot; : envoie l&#39;orientation et les coordonnées d&#39;un client spécifique." alt="" coords="496,1169,603,1195"/>
+<area shape="rect" id="node28" href="$command__right_8c.html#a3b7cd14c6501bdbf68c5d688bf209ea8" title="Commande &quot;Right&quot; : fait tourner le client à droite." alt="" coords="494,1220,605,1245"/>
+<area shape="rect" id="node29" href="$command__sgt_8c.html#a84b9a9324a5e9f62a3c261f0a51c1d71" title="Commande &quot;sgt&quot; : envoie la fréquence." alt="" coords="497,868,601,893"/>
+<area shape="rect" id="node30" href="$command__sst_8c.html#ad3d1e38d6e9ae93e822c2bdcb034eef2" title="Commande &quot;sst&quot; : change la fréquence du serveur." alt="" coords="497,1272,601,1297"/>
+<area shape="rect" id="node32" href="$command__pdi_8c.html#a3bc620fd5bafa7a0b1f0ef987fdcd9ac" title="Commande &quot;pdi&quot;: envoie un message de mort du client au GUI." alt="" coords="886,1373,989,1399"/>
+<area shape="rect" id="node38" href="$game_8c.html#ab351a22fe1006305dfc1022401ef7464" title=" " alt="" coords="311,1424,404,1449"/>
+<area shape="rect" id="node40" href="$command__pdr_8c.html#a04cc18ac2e26f26435895d61f29b001a" title="Commande &quot;pdr&quot;: Envoie un message de dépôt de ressource au GUI." alt="" coords="885,1475,989,1500"/>
+<area shape="rect" id="node41" href="$command__pex_8c.html#af08aa33996a9c066a2d46fdef82c64fc" title="Commande &quot;pex&quot;: Envoie un message de prise de ressource au GUI." alt="" coords="703,309,809,335"/>
+<area shape="rect" id="node42" href="$command__pgt_8c.html#ad750c554fe829a42d2112feadfe4b6fc" title="Commande &quot;pgt&quot;: Envoie un message de prise de ressource au GUI." alt="" coords="885,1524,989,1549"/>
+<area shape="rect" id="node43" href="$command__pic_8c.html#ab53cc825123ddceb9ab651dff63acf2e" title="Commande &quot;pic&quot;: Envoie les infos du debut de l&#39;incantation." alt="" coords="705,411,807,436"/>
+<area shape="rect" id="node44" href="$command__pie_8c.html#a2566acc90f85f0310f28eeab6d80fcc9" title="Commande &quot;pie&quot;: Envoie les infos de la fin de l&#39;incantation." alt="" coords="886,107,989,132"/>
+<area shape="rect" id="node45" href="$command__broadcast_8c.html#a1e84789413a7f652acb84fe708eabf5f" title=" " alt="" coords="694,208,818,233"/>
+<area shape="rect" id="node46" href="$command__incantation_8c.html#afb8682afed0e4cbf46152156ac5e646d" title=" " alt="" coords="902,1573,973,1599"/>
+<area shape="rect" id="node3" href="$handle__client_8c.html#a581c9ee6f64450659407453e27021244" title="Fonction pour accepter un nouveau client." alt="" coords="691,5,821,31"/>
+<area shape="rect" id="node6" href="$command__set_8c.html#a9c6ae75be8093238113061e48b85593a" title="Commande &quot;set&quot;: permet à un client de déposer une ressource." alt="" coords="497,424,601,449"/>
+<area shape="rect" id="node7" href="$command__take_8c.html#a5d2340b51f3c2c893e838f6b769964d3" title="Commande &quot;Take&quot; : permet à un client de prendre une ressource." alt="" coords="494,473,605,499"/>
+<area shape="rect" id="node9" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="152,1008,244,1033"/>
+<area shape="rect" id="node10" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,1008,104,1033"/>
+<area shape="rect" id="node12" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="676,765,836,791"/>
+<area shape="rect" id="node31" href="$command__tna_8c.html#a4d0c76e3fa8367d912225ebc2c10266b" title="Commande &quot;tna&quot; : envoie les noms des équipes au client." alt="" coords="497,769,601,795"/>
+<area shape="rect" id="node33" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="715,1373,797,1399"/>
+<area shape="rect" id="node34" href="$client_8c.html#a3ac2b447730cc2666a0c7af1656c5214" title="Supprime un client de la liste par son descripteur." alt="" coords="498,1373,601,1399"/>
+<area shape="rect" id="node35" href="$handle__client_8c.html#aec039948b7edeea6776d372b9f1aadef" title="Fonction pour traiter les commandes d&#39;un client." alt="" coords="295,1276,419,1301"/>
+<area shape="rect" id="node36" href="$poll_8c.html#ae28bb2ab8a12506876b97f193706e496" title=" " alt="" coords="305,1325,410,1351"/>
+<area shape="rect" id="node37" href="$client_8c.html#a5f717f97b3b54ce2777860ec09499f1f" title="Fonction pour supprimer tous les clients." alt="" coords="292,1375,423,1400"/>
+<area shape="rect" id="node39" href="$game_8c.html#adb2c3fc6837f9e3291e938d6b4d5360e" title="boucle principale du jeu." alt="" coords="155,1424,241,1449"/>
+</map>

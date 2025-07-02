@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,56,105"/>
+<area shape="rect" id="node2" href="$server_8c.html#ace275ab21207b36280bca51b0459c9b1" title="Crée et initialise le serveur." alt="" coords="104,5,205,31"/>
+<area shape="rect" id="node3" href="$server_8c.html#a9ecccd938154ccc1315938215b91c1d1" title="Boucle principale du serveur." alt="" coords="110,55,199,80"/>
+<area shape="rect" id="node5" href="$parsing_8c.html#a5258e1495387f7b5760d7552a08305f5" title="Analyse les arguments de la ligne de commande." alt="" coords="111,104,198,129"/>
+<area shape="rect" id="node10" href="$main_8c.html#abab3acffc1548535ff14eea8cd0fd773" title=" " alt="" coords="115,153,194,179"/>
+<area shape="rect" id="node4" href="$server_8c.html#af675374954cdabdf63d036fe3c12d348" title=" " alt="" coords="253,55,359,80"/>
+<area shape="rect" id="node6" href="$parsing_8c.html#ad9d2b08819303db243dd9b1287fc3148" title=" " alt="" coords="262,104,350,129"/>
+<area shape="rect" id="node7" href="$parsing_8c.html#a88a75c5fc6828ffe68aaf6cc1c28f1a5" title=" " alt="" coords="407,79,548,104"/>
+<area shape="rect" id="node9" href="$parsing_8c.html#a3051cf1b0e6193f7649c20a1605e0100" title=" " alt="" coords="409,128,545,153"/>
+<area shape="rect" id="node8" href="$parsing_8c.html#ada5450b2a5fc334042ba0f7d77337b37" title=" " alt="" coords="596,79,717,104"/>
+</map>

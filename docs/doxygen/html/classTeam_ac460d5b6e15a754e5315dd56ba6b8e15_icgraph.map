@@ -1,0 +1,4 @@
+<map id="Team::removePlayer" name="Team::removePlayer">
+<area shape="rect" id="node1" title="Supprime un joueur de l&#39;équipe en fonction de son identifiant." alt="" coords="199,5,341,31"/>
+<area shape="rect" id="node2" href="$classGame.html#a49f8b7f402f0a6ccd7d65fec85dd42eb" title=" " alt="" coords="5,5,151,31"/>
+</map>

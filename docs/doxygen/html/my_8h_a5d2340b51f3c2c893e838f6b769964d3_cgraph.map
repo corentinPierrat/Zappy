@@ -1,0 +1,8 @@
+<map id="command_take" name="command_take">
+<area shape="rect" id="node1" title="Commande &quot;Take&quot; : permet à un client de prendre une ressource." alt="" coords="5,32,116,57"/>
+<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="164,7,324,32"/>
+<area shape="rect" id="node5" href="$command__take_8c.html#a0d033b8c87134eb0bbe8928c1a33f18c" title="Vérifie si la ressource demandée est valide." alt="" coords="187,56,301,81"/>
+<area shape="rect" id="node3" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="373,5,479,31"/>
+<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="528,31,635,56"/>
+<area shape="rect" id="node6" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="372,107,480,132"/>
+</map>

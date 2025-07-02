@@ -1,0 +1,6 @@
+<map id="command_sst" name="command_sst">
+<area shape="rect" id="node1" title="Commande &quot;sst&quot; : change la fréquence du serveur." alt="" coords="5,31,109,56"/>
+<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="157,5,317,31"/>
+<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="520,31,627,56"/>
+<area shape="rect" id="node3" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="365,5,472,31"/>
+</map>

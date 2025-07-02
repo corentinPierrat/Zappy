@@ -1,0 +1,5 @@
+<map id="check_resource" name="check_resource">
+<area shape="rect" id="node1" title="Vérifie si la ressource demandée est valide." alt="" coords="164,31,279,56"/>
+<area shape="rect" id="node2" href="$command__set_8c.html#a9c6ae75be8093238113061e48b85593a" title="Commande &quot;set&quot;: permet à un client de déposer une ressource." alt="" coords="9,5,113,31"/>
+<area shape="rect" id="node3" href="$command__take_8c.html#a5d2340b51f3c2c893e838f6b769964d3" title="Commande &quot;Take&quot; : permet à un client de prendre une ressource." alt="" coords="5,55,116,80"/>
+</map>

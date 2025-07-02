@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Fonction principale du client." alt="" coords="5,105,56,131"/>
+<area shape="rect" id="node2" href="$classMenu.html#a369f4d2ec02d9b0ddf65a676881b9bbe" title=" " alt="" coords="125,80,265,105"/>
+<area shape="rect" id="node7" href="$classMenu.html#afea174abd6c776733fb57d66e48c7d9b" title=" " alt="" coords="104,129,287,155"/>
+<area shape="rect" id="node3" href="$classButton.html#a6aaa2b781c933a296f41a8eca890eb1f" title=" " alt="" coords="345,5,444,31"/>
+<area shape="rect" id="node4" href="$classTextBox.html#aa7f242b97c2163755b5046eca6134eb6" title=" " alt="" coords="340,55,449,80"/>
+<area shape="rect" id="node5" href="$classTextBox.html#a4967d66f86a624d465fde2fb20a37e9d" title=" " alt="" coords="335,104,455,129"/>
+<area shape="rect" id="node6" href="$classButton.html#a23e8bc9ad05142244ea4e79a406a6c9c" title=" " alt="" coords="339,153,450,179"/>
+</map>

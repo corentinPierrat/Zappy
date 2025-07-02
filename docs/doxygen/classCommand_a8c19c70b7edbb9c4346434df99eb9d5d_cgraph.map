@@ -1,7 +1,0 @@
-<map id="Command::changeFrequence" name="Command::changeFrequence">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,216,56"/>
-<area shape="rect" id="Node000002" href="$classGame.html#aedb74dab0eafa859e6e75edca1a88bb4" title=" " alt="" coords="264,5,421,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,29,250,25,251,31,217,34"/>
-<area shape="rect" id="Node000003" href="$classClient.html#a1ca0f7507ad07fbed5f83b4c023f200e" title=" " alt="" coords="264,55,421,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,52,251,55,250,60,216,57"/>
-</map>

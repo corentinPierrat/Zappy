@@ -1,7 +1,0 @@
-<map id="command_bct" name="command_bct">
-<area shape="rect" id="Node000001" title="Commande &quot;bct&quot; : envoie les ressources d&#39;une tuile spécifique au client." alt="" coords="5,31,120,56"/>
-<area shape="rect" id="Node000002" href="$command__bct_8c.html#ae1e6d2b47d7257cb78f97f8777399a34" title="Fonction pour formatter la reponse bct." alt="" coords="168,5,327,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,33,154,28,155,33,120,38"/>
-<area shape="rect" id="Node000003" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="189,55,305,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,48,176,55,175,61,120,53"/>
-</map>

@@ -1,0 +1,12 @@
+<map id="queue_free" name="queue_free">
+<area shape="rect" id="node1" title="Libère la mémoire allouée pour la file d&#39;attente." alt="" coords="612,104,699,129"/>
+<area shape="rect" id="node2" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="481,104,564,129"/>
+<area shape="rect" id="node3" href="$client_8c.html#a3ac2b447730cc2666a0c7af1656c5214" title="Supprime un client de la liste par son descripteur." alt="" coords="331,104,433,129"/>
+<area shape="rect" id="node4" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="171,5,263,31"/>
+<area shape="rect" id="node6" href="$handle__client_8c.html#aec039948b7edeea6776d372b9f1aadef" title="Fonction pour traiter les commandes d&#39;un client." alt="" coords="155,55,279,80"/>
+<area shape="rect" id="node7" href="$poll_8c.html#ae28bb2ab8a12506876b97f193706e496" title=" " alt="" coords="165,104,270,129"/>
+<area shape="rect" id="node8" href="$client_8c.html#a5f717f97b3b54ce2777860ec09499f1f" title="Fonction pour supprimer tous les clients." alt="" coords="152,153,283,179"/>
+<area shape="rect" id="node9" href="$game_8c.html#ab351a22fe1006305dfc1022401ef7464" title=" " alt="" coords="171,203,264,228"/>
+<area shape="rect" id="node5" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,5,104,31"/>
+<area shape="rect" id="node10" href="$game_8c.html#adb2c3fc6837f9e3291e938d6b4d5360e" title="boucle principale du jeu." alt="" coords="12,203,97,228"/>
+</map>

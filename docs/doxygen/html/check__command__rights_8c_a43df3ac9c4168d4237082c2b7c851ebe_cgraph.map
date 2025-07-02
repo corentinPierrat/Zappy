@@ -1,0 +1,5 @@
+<map id="check_command_rights" name="check_command_rights">
+<area shape="rect" id="node1" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="5,5,165,31"/>
+<area shape="rect" id="node2" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="213,5,320,31"/>
+<area shape="rect" id="node3" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="368,5,475,31"/>
+</map>

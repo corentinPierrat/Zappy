@@ -1,9 +1,0 @@
-<map id="Client::sendMessage" name="Client::sendMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="504,5,661,31"/>
-<area shape="rect" id="Node000002" href="$classCommand.html#a8c19c70b7edbb9c4346434df99eb9d5d" title=" " alt="" coords="245,5,456,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,21,456,21,456,15,490,15"/>
-<area shape="rect" id="Node000003" href="$classClient.html#ae0bc335d720265d4d6e8a72cf7a2a9aa" title=" " alt="" coords="108,5,197,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,21,198,21,198,15,231,15"/>
-<area shape="rect" id="Node000004" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Fonction principale du client." alt="" coords="5,5,60,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,21,60,21,60,15,94,15"/>
-</map>

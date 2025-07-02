@@ -1,9 +1,0 @@
-<map id="command_pin" name="command_pin">
-<area shape="rect" id="Node000001" title="Commande &quot;pin&quot; : envoie l&#39;inventaire d&#39;un client spécifique." alt="" coords="5,55,120,80"/>
-<area shape="rect" id="Node000002" href="$client_8c.html#af848207a806ae31fce61993dc02c8fa0" title="Cherche un client dans la liste par son descripteur." alt="" coords="203,5,292,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,52,189,31,190,36,112,57"/>
-<area shape="rect" id="Node000003" href="$command__pin_8c.html#ae06bff6a952d606e456167be81e0cbcc" title="Fonction pour formatter la reponse pin." alt="" coords="168,55,327,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,65,154,65,154,70,120,70"/>
-<area shape="rect" id="Node000004" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="189,104,305,129"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,77,186,98,185,103,110,83"/>
-</map>

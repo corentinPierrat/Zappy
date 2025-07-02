@@ -1,9 +1,0 @@
-<map id="command_sgt" name="command_sgt">
-<area shape="rect" id="Node000001" title="Commande &quot;sgt&quot; : envoie la fréquence." alt="" coords="485,5,600,31"/>
-<area shape="rect" id="Node000002" href="$command__auth_8c.html#a70a1d2080810f9eebebf1b9d296679f3" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="315,5,437,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,21,438,21,438,15,471,15"/>
-<area shape="rect" id="Node000003" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="164,5,267,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="301,21,267,21,267,15,301,15"/>
-<area shape="rect" id="Node000004" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,5,116,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="150,21,116,21,116,15,150,15"/>
-</map>

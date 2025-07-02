@@ -1,9 +1,0 @@
-<map id="queue_push" name="queue_push">
-<area shape="rect" id="Node000001" title="Ajoute une commande à la file d&#39;attente." alt="" coords="563,5,663,31"/>
-<area shape="rect" id="Node000002" href="$command_8c.html#a07432ef25cd27f78815e4c656fccc586" title=" " alt="" coords="336,5,515,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="549,21,515,21,515,15,549,15"/>
-<area shape="rect" id="Node000003" href="$command_8c.html#a30ef95eb7117bc7166fa6b264a0ce9b0" title=" " alt="" coords="164,5,288,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,21,288,21,288,15,322,15"/>
-<area shape="rect" id="Node000004" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,5,116,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="150,21,116,21,116,15,150,15"/>
-</map>

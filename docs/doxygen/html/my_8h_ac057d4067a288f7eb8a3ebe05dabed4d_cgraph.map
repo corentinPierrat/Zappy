@@ -1,0 +1,4 @@
+<map id="add_client" name="add_client">
+<area shape="rect" id="node1" title="Ajoute un client à la liste des clients." alt="" coords="5,5,87,31"/>
+<area shape="rect" id="node2" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="135,5,241,31"/>
+</map>

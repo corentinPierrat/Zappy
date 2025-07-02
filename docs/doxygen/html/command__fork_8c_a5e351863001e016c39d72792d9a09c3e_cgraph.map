@@ -1,0 +1,7 @@
+<map id="command_fork" name="command_fork">
+<area shape="rect" id="node1" title="Commande &quot;fork&quot;: Crée un nouvel oeuf." alt="" coords="5,56,113,81"/>
+<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="161,5,321,31"/>
+<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="524,31,631,56"/>
+<area shape="rect" id="node5" href="$command__fork_8c.html#ae202cbbcccc361a300005577d4e789b4" title=" " alt="" coords="198,107,285,132"/>
+<area shape="rect" id="node3" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="369,5,476,31"/>
+</map>

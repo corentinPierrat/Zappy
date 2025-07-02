@@ -1,0 +1,4 @@
+<map id="command_pic" name="command_pic">
+<area shape="rect" id="node1" title="Commande &quot;pic&quot;: Envoie les infos du debut de l&#39;incantation." alt="" coords="5,5,108,31"/>
+<area shape="rect" id="node2" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="156,5,263,31"/>
+</map>

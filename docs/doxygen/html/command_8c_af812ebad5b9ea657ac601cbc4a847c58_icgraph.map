@@ -1,0 +1,17 @@
+<map id="free_command" name="free_command">
+<area shape="rect" id="node1" title="Fonction pour free une commande." alt="" coords="687,104,795,129"/>
+<area shape="rect" id="node2" href="$command__take_8c.html#a0d033b8c87134eb0bbe8928c1a33f18c" title="Vérifie si la ressource demandée est valide." alt="" coords="507,29,621,55"/>
+<area shape="rect" id="node5" href="$command__eject_8c.html#a050406748a9811d87904bef84a81a8fc" title="Commande &quot;eject&quot;: Ejecte un client d&#39;une case." alt="" coords="507,79,621,104"/>
+<area shape="rect" id="node6" href="$command__incantation_8c.html#a7a4e14d18d555a1c5b6b690a0dd48f2d" title=" " alt="" coords="489,128,639,153"/>
+<area shape="rect" id="node7" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="523,177,605,203"/>
+<area shape="rect" id="node3" href="$command__set_8c.html#a9c6ae75be8093238113061e48b85593a" title="Commande &quot;set&quot;: permet à un client de déposer une ressource." alt="" coords="334,5,438,31"/>
+<area shape="rect" id="node4" href="$command__take_8c.html#a5d2340b51f3c2c893e838f6b769964d3" title="Commande &quot;Take&quot; : permet à un client de prendre une ressource." alt="" coords="331,55,441,80"/>
+<area shape="rect" id="node8" href="$client_8c.html#a3ac2b447730cc2666a0c7af1656c5214" title="Supprime un client de la liste par son descripteur." alt="" coords="335,177,437,203"/>
+<area shape="rect" id="node9" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="171,79,263,104"/>
+<area shape="rect" id="node11" href="$handle__client_8c.html#aec039948b7edeea6776d372b9f1aadef" title="Fonction pour traiter les commandes d&#39;un client." alt="" coords="155,128,279,153"/>
+<area shape="rect" id="node12" href="$poll_8c.html#ae28bb2ab8a12506876b97f193706e496" title=" " alt="" coords="165,177,270,203"/>
+<area shape="rect" id="node13" href="$client_8c.html#a5f717f97b3b54ce2777860ec09499f1f" title="Fonction pour supprimer tous les clients." alt="" coords="152,227,283,252"/>
+<area shape="rect" id="node14" href="$game_8c.html#ab351a22fe1006305dfc1022401ef7464" title=" " alt="" coords="171,276,264,301"/>
+<area shape="rect" id="node10" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,79,104,104"/>
+<area shape="rect" id="node15" href="$game_8c.html#adb2c3fc6837f9e3291e938d6b4d5360e" title="boucle principale du jeu." alt="" coords="12,276,97,301"/>
+</map>

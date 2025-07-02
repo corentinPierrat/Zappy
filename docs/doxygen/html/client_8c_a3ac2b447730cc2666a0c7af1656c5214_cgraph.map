@@ -1,0 +1,8 @@
+<map id="remove_client" name="remove_client">
+<area shape="rect" id="node1" title="Supprime un client de la liste par son descripteur." alt="" coords="5,55,108,80"/>
+<area shape="rect" id="node2" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="156,55,239,80"/>
+<area shape="rect" id="node3" href="$command__pdi_8c.html#a3bc620fd5bafa7a0b1f0ef987fdcd9ac" title="Commande &quot;pdi&quot;: envoie un message de mort du client au GUI." alt="" coords="289,5,392,31"/>
+<area shape="rect" id="node5" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="287,55,395,80"/>
+<area shape="rect" id="node6" href="$queue_8c.html#ac8395c96973c80c935435f6b31479397" title="Libère la mémoire allouée pour la file d&#39;attente." alt="" coords="297,104,384,129"/>
+<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="443,5,549,31"/>
+</map>

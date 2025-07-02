@@ -1,0 +1,9 @@
+<map id="tab_s" name="tab_s">
+<area shape="rect" id="node1" title="Structure de liaison commande / fonction." alt="" coords="5,269,60,295"/>
+<area shape="rect" id="node2" href="$structclient__s.html" title="Représente un client connecté au serveur." alt="" coords="121,181,187,207"/>
+<area shape="rect" id="node7" href="$structcommand__s.html" title=" " alt="" coords="149,269,242,295"/>
+<area shape="rect" id="node3" href="$structteam__s.html" title=" " alt="" coords="121,93,187,119"/>
+<area shape="rect" id="node4" href="$structegg__s.html" title=" " alt="" coords="125,5,183,31"/>
+<area shape="rect" id="node5" href="$structqueue__s.html" title="Représente une file d&#39;attente de commandes." alt="" coords="228,460,299,485"/>
+<area shape="rect" id="node6" href="$structnode__s.html" title="Représente un nœud dans une file d&#39;attente de commandes." alt="" coords="169,357,233,383"/>
+</map>

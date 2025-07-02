@@ -1,0 +1,6 @@
+<map id="init_map" name="init_map">
+<area shape="rect" id="node1" title="Initialise la carte du serveur." alt="" coords="5,31,76,56"/>
+<area shape="rect" id="node2" href="$map_8c.html#aa18bc356359f3b2e71dc5a28d47c933d" title="fonction pour faire le spawn des ressources." alt="" coords="124,31,255,56"/>
+<area shape="rect" id="node3" href="$map_8c.html#ae0ed7035c9dd0d2dfaeb1abd12124841" title=" " alt="" coords="303,5,413,31"/>
+<area shape="rect" id="node4" href="$map_8c.html#a88547aeed8b743ef879cdb40d57bb289" title=" " alt="" coords="312,55,404,80"/>
+</map>

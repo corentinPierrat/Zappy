@@ -1,7 +1,0 @@
-<map id="get_direction" name="get_direction">
-<area shape="rect" id="Node000001" title="Fonction pour obtenir la direction entre deux clients." alt="" coords="397,5,504,31"/>
-<area shape="rect" id="Node000002" href="$command__broadcast_8c.html#a1e84789413a7f652acb84fe708eabf5f" title=" " alt="" coords="212,5,349,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="384,21,349,21,349,15,384,15"/>
-<area shape="rect" id="Node000003" href="$command__broadcast_8c.html#a0a2bb6e66c6e88821c2dad0171998b65" title="Commande &quot;broadcast&quot;: Envoie un message à tous les clients." alt="" coords="5,5,164,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,21,164,21,164,15,198,15"/>
-</map>

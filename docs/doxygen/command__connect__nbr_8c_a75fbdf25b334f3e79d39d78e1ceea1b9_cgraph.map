@@ -1,5 +1,0 @@
-<map id="command_connect_nbr" name="command_connect_nbr">
-<area shape="rect" id="Node000001" title="Commande &quot;ConnectNbr&quot; : envoie le nombre de slots disponibles." alt="" coords="5,5,179,31"/>
-<area shape="rect" id="Node000002" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="227,5,343,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,15,213,15,213,21,179,21"/>
-</map>

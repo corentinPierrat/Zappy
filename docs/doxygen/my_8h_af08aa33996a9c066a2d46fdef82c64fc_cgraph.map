@@ -1,5 +1,0 @@
-<map id="command_pex" name="command_pex">
-<area shape="rect" id="Node000001" title="Commande &quot;pex&quot;: Envoie un message de prise de ressource au GUI." alt="" coords="5,5,124,31"/>
-<area shape="rect" id="Node000002" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="172,5,288,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,15,158,15,158,21,124,21"/>
-</map>

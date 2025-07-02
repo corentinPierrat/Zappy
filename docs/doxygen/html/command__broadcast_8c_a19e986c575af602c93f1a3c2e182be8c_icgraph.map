@@ -1,0 +1,5 @@
+<map id="get_direction" name="get_direction">
+<area shape="rect" id="node1" title="Fonction pour obtenir la direction entre deux clients." alt="" coords="368,5,464,31"/>
+<area shape="rect" id="node2" href="$command__broadcast_8c.html#a1e84789413a7f652acb84fe708eabf5f" title=" " alt="" coords="196,5,320,31"/>
+<area shape="rect" id="node3" href="$command__broadcast_8c.html#a0a2bb6e66c6e88821c2dad0171998b65" title="Commande &quot;broadcast&quot;: Envoie un message à tous les clients." alt="" coords="5,5,148,31"/>
+</map>

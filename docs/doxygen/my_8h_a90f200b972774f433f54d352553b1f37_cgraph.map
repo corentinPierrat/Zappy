@@ -1,7 +1,0 @@
-<map id="command_plv" name="command_plv">
-<area shape="rect" id="Node000001" title="Commande &quot;plv&quot; : envoie le niveau d&#39;un client spécifique." alt="" coords="5,31,120,56"/>
-<area shape="rect" id="Node000002" href="$client_8c.html#af848207a806ae31fce61993dc02c8fa0" title="Cherche un client dans la liste par son descripteur." alt="" coords="181,5,271,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,32,167,24,168,30,121,37"/>
-<area shape="rect" id="Node000003" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="168,55,284,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,49,155,54,154,59,120,54"/>
-</map>

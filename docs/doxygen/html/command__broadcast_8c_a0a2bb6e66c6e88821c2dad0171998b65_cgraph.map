@@ -1,0 +1,8 @@
+<map id="command_broadcast" name="command_broadcast">
+<area shape="rect" id="node1" title="Commande &quot;broadcast&quot;: Envoie un message à tous les clients." alt="" coords="5,56,148,81"/>
+<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="196,5,356,31"/>
+<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="559,56,665,81"/>
+<area shape="rect" id="node5" href="$command__broadcast_8c.html#a1e84789413a7f652acb84fe708eabf5f" title=" " alt="" coords="214,107,338,132"/>
+<area shape="rect" id="node3" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="404,5,511,31"/>
+<area shape="rect" id="node6" href="$command__broadcast_8c.html#a19e986c575af602c93f1a3c2e182be8c" title="Fonction pour obtenir la direction entre deux clients." alt="" coords="409,157,505,183"/>
+</map>

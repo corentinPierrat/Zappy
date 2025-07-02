@@ -1,0 +1,12 @@
+<map id="gui/IClient.hpp" name="gui/IClient.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="107,5,213,31"/>
+<area shape="rect" id="node2" href="$Client_8hpp.html" title=" " alt="" coords="65,79,167,104"/>
+<area shape="rect" id="node9" href="$command_8hpp.html" title=" " alt="" coords="87,225,212,251"/>
+<area shape="rect" id="node3" href="$Client_8cpp.html" title=" " alt="" coords="91,299,194,324"/>
+<area shape="rect" id="node4" href="$Game_8hpp.html" title=" " alt="" coords="249,152,351,177"/>
+<area shape="rect" id="node10" href="$main_8cpp.html" title=" " alt="" coords="21,152,117,177"/>
+<area shape="rect" id="node5" href="$Game_8cpp.html" title=" " alt="" coords="485,299,587,324"/>
+<area shape="rect" id="node6" href="$Hud_8cpp.html" title=" " alt="" coords="369,299,461,324"/>
+<area shape="rect" id="node7" href="$Hud_8hpp.html" title=" " alt="" coords="389,225,481,251"/>
+<area shape="rect" id="node8" href="$command_8cpp.html" title=" " alt="" coords="219,299,344,324"/>
+</map>

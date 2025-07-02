@@ -1,7 +1,0 @@
-<map id="Client::receiveUpdates" name="Client::receiveUpdates">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,176,31"/>
-<area shape="rect" id="Node000002" href="$classCommand.html#a23c895be1ac741504a06723fc56f7ebf" title=" " alt="" coords="224,5,432,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,15,210,15,210,21,176,21"/>
-<area shape="rect" id="Node000003" href="$classGame.html#a1624ea02564e4aa3cd10c4b66911e027" title=" " alt="" coords="480,5,632,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,15,466,15,466,21,432,21"/>
-</map>

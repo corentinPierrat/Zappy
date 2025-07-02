@@ -1,0 +1,8 @@
+<map id="node_s" name="node_s">
+<area shape="rect" id="node1" title="Représente un nœud dans une file d&#39;attente de commandes." alt="" coords="20,5,84,31"/>
+<area shape="rect" id="node6" href="$structqueue__s.html" title="Représente une file d&#39;attente de commandes." alt="" coords="55,108,126,133"/>
+<area shape="rect" id="node2" href="$structcommand__s.html" title=" " alt="" coords="5,284,99,309"/>
+<area shape="rect" id="node3" href="$structclient__s.html" title="Représente un client connecté au serveur." alt="" coords="112,196,179,221"/>
+<area shape="rect" id="node4" href="$structteam__s.html" title=" " alt="" coords="202,108,267,133"/>
+<area shape="rect" id="node5" href="$structegg__s.html" title=" " alt="" coords="206,5,263,31"/>
+</map>

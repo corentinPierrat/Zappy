@@ -1,0 +1,5 @@
+<map id="handle_broadcast" name="handle_broadcast">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,129,56"/>
+<area shape="rect" id="node2" href="$command__broadcast_8c.html#a19e986c575af602c93f1a3c2e182be8c" title="Fonction pour obtenir la direction entre deux clients." alt="" coords="183,5,279,31"/>
+<area shape="rect" id="node3" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="177,55,284,80"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="command_pin" name="command_pin">
+<area shape="rect" id="node1" title="Commande &quot;pin&quot; : envoie l&#39;inventaire d&#39;un client spécifique." alt="" coords="5,81,108,107"/>
+<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="156,5,316,31"/>
+<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="519,31,625,56"/>
+<area shape="rect" id="node5" href="$client_8c.html#af848207a806ae31fce61993dc02c8fa0" title="Cherche un client dans la liste par son descripteur." alt="" coords="195,107,277,132"/>
+<area shape="rect" id="node6" href="$command__pin_8c.html#ae06bff6a952d606e456167be81e0cbcc" title="Fonction pour formatter la reponse pin." alt="" coords="165,156,307,181"/>
+<area shape="rect" id="node3" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="364,5,471,31"/>
+</map>

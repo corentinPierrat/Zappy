@@ -1,0 +1,6 @@
+<map id="command_tna" name="command_tna">
+<area shape="rect" id="node1" title="Commande &quot;tna&quot; : envoie les noms des équipes au client." alt="" coords="451,5,555,31"/>
+<area shape="rect" id="node2" href="$command__auth_8c.html#a70a1d2080810f9eebebf1b9d296679f3" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="292,5,403,31"/>
+<area shape="rect" id="node3" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="152,5,244,31"/>
+<area shape="rect" id="node4" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,5,104,31"/>
+</map>

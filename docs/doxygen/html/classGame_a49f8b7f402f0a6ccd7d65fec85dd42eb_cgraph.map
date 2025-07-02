@@ -1,0 +1,6 @@
+<map id="Game::removePlayer" name="Game::removePlayer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,151,80"/>
+<area shape="rect" id="node2" href="$classTeam.html#a491cc48cda0cfaca9ef65059a52ef54a" title="Récupère le nom de l&#39;équipe." alt="" coords="213,5,327,31"/>
+<area shape="rect" id="node3" href="$classTeam.html#a9ca691c1ee9bdde3d3911583bbabbc40" title="Vérifie si un joueur avec un identifiant donné fait partie de l&#39;équipe." alt="" coords="210,55,330,80"/>
+<area shape="rect" id="node4" href="$classTeam.html#ac460d5b6e15a754e5315dd56ba6b8e15" title="Supprime un joueur de l&#39;équipe en fonction de son identifiant." alt="" coords="199,104,341,129"/>
+</map>

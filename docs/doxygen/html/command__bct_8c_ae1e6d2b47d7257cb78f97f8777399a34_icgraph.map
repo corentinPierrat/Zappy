@@ -1,0 +1,8 @@
+<map id="format_bct_response" name="format_bct_response">
+<area shape="rect" id="node1" title="Fonction pour formatter la reponse bct." alt="" coords="607,31,751,56"/>
+<area shape="rect" id="node2" href="$command__bct_8c.html#ac348cdb244813b2c5a0af2fde8160828" title="Commande &quot;bct&quot; : envoie les ressources d&#39;une tuile spécifique au client." alt="" coords="453,5,557,31"/>
+<area shape="rect" id="node3" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="451,55,559,80"/>
+<area shape="rect" id="node4" href="$command__auth_8c.html#a70a1d2080810f9eebebf1b9d296679f3" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="292,55,403,80"/>
+<area shape="rect" id="node5" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="152,55,244,80"/>
+<area shape="rect" id="node6" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,55,104,80"/>
+</map>

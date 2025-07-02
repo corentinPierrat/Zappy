@@ -1,0 +1,7 @@
+<map id="command_mct" name="command_mct">
+<area shape="rect" id="node1" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="5,56,113,81"/>
+<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="161,5,321,31"/>
+<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="524,31,631,56"/>
+<area shape="rect" id="node5" href="$command__bct_8c.html#ae1e6d2b47d7257cb78f97f8777399a34" title="Fonction pour formatter la reponse bct." alt="" coords="169,107,313,132"/>
+<area shape="rect" id="node3" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="369,5,476,31"/>
+</map>

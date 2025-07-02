@@ -1,7 +1,0 @@
-<map id="check_resource" name="check_resource">
-<area shape="rect" id="Node000001" title="Vérifie si la ressource demandée est valide." alt="" coords="5,31,128,56"/>
-<area shape="rect" id="Node000002" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="176,5,296,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,32,162,26,163,32,129,37"/>
-<area shape="rect" id="Node000003" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="178,55,294,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,49,165,55,164,60,128,55"/>
-</map>

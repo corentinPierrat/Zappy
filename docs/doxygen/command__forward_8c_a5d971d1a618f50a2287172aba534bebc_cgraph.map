@@ -1,5 +1,0 @@
-<map id="command_forward" name="command_forward">
-<area shape="rect" id="Node000001" title="Commande &quot;Forward&quot; : déplace le client d&#39;une case." alt="" coords="5,5,149,31"/>
-<area shape="rect" id="Node000002" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="197,5,313,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,15,184,15,184,21,149,21"/>
-</map>

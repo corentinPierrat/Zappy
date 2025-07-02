@@ -1,0 +1,5 @@
+<map id="Hud::drawTeam" name="Hud::drawTeam">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,120,56"/>
+<area shape="rect" id="node2" href="$classTeam.html#a491cc48cda0cfaca9ef65059a52ef54a" title="Récupère le nom de l&#39;équipe." alt="" coords="172,5,287,31"/>
+<area shape="rect" id="node3" href="$classGame.html#af7b45f8c6af593b600f71e3fe9f72cb9" title=" " alt="" coords="168,55,291,80"/>
+</map>

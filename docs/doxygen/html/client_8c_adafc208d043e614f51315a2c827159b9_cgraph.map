@@ -1,0 +1,7 @@
+<map id="free_client" name="free_client">
+<area shape="rect" id="node1" title="Fonction pour free un client." alt="" coords="5,55,88,80"/>
+<area shape="rect" id="node2" href="$command__pdi_8c.html#a3bc620fd5bafa7a0b1f0ef987fdcd9ac" title="Commande &quot;pdi&quot;: envoie un message de mort du client au GUI." alt="" coords="139,5,241,31"/>
+<area shape="rect" id="node4" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="136,55,244,80"/>
+<area shape="rect" id="node5" href="$queue_8c.html#ac8395c96973c80c935435f6b31479397" title="Libère la mémoire allouée pour la file d&#39;attente." alt="" coords="147,104,233,129"/>
+<area shape="rect" id="node3" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="292,5,399,31"/>
+</map>

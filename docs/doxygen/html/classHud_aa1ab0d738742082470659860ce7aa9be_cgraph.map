@@ -1,0 +1,9 @@
+<map id="Hud::updatePlayers" name="Hud::updatePlayers">
+<area shape="rect" id="node1" title=" " alt="" coords="5,51,143,76"/>
+<area shape="rect" id="node2" href="$classPlayer.html#a69ee7ea24ebba0be1ab3c7157e7c5ffa" title=" " alt="" coords="379,12,475,37"/>
+<area shape="rect" id="node3" href="$classTeam.html#aa56b061fa31568d2fc546bf56a82a565" title="Récupère la liste des joueurs de l&#39;équipe." alt="" coords="199,25,323,51"/>
+<area shape="rect" id="node4" href="$classGame.html#af7b45f8c6af593b600f71e3fe9f72cb9" title=" " alt="" coords="199,75,322,100"/>
+<area shape="rect" id="node5" href="$classGame.html#a47bc4747dcc4412b69bae2620e895e8f" title=" " alt="" coords="191,124,331,149"/>
+<area shape="rect" id="node6" href="$classPlayer.html#a6df1b6d0bf59b811783c3d9233aab996" title=" " alt="" coords="379,99,474,124"/>
+<area shape="rect" id="node7" href="$classPlayer.html#a9acaa8e0123935e2104dda7973d62fe4" title=" " alt="" coords="379,148,474,173"/>
+</map>

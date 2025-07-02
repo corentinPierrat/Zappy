@@ -1,0 +1,9 @@
+<map id="command_incantation" name="command_incantation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,155,132"/>
+<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="203,5,363,31"/>
+<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="565,56,672,81"/>
+<area shape="rect" id="node5" href="$command__pic_8c.html#ab53cc825123ddceb9ab651dff63acf2e" title="Commande &quot;pic&quot;: Envoie les infos du debut de l&#39;incantation." alt="" coords="413,107,515,132"/>
+<area shape="rect" id="node6" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="229,157,337,183"/>
+<area shape="rect" id="node7" href="$command__incantation_8c.html#a82d516fcad9f53bd04f0c4701679becf" title=" " alt="" coords="231,207,334,232"/>
+<area shape="rect" id="node3" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="411,5,517,31"/>
+</map>

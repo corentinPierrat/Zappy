@@ -1,0 +1,12 @@
+<map id="gui/Team.hpp" name="gui/Team.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="417,5,517,31"/>
+<area shape="rect" id="node2" href="$Client_8cpp.html" title=" " alt="" coords="5,225,108,251"/>
+<area shape="rect" id="node3" href="$Game_8hpp.html" title=" " alt="" coords="307,79,409,104"/>
+<area shape="rect" id="node5" href="$Hud_8cpp.html" title=" " alt="" coords="480,225,572,251"/>
+<area shape="rect" id="node7" href="$command_8cpp.html" title=" " alt="" coords="150,225,275,251"/>
+<area shape="rect" id="node9" href="$Player_8cpp.html" title=" " alt="" coords="615,79,720,104"/>
+<area shape="rect" id="node10" href="$Team_8cpp.html" title="Implémentation de la classe Team pour gérer une équipe de joueurs." alt="" coords="744,79,844,104"/>
+<area shape="rect" id="node4" href="$Game_8cpp.html" title=" " alt="" coords="329,225,432,251"/>
+<area shape="rect" id="node6" href="$Hud_8hpp.html" title=" " alt="" coords="396,152,488,177"/>
+<area shape="rect" id="node8" href="$command_8hpp.html" title=" " alt="" coords="145,152,270,177"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="add_client" name="add_client">
-<area shape="rect" id="Node000001" title="Ajoute un client à la liste des clients." alt="" coords="196,5,285,31"/>
-<area shape="rect" id="Node000002" href="$handle__client_8c.html#a581c9ee6f64450659407453e27021244" title="Fonction pour accepter un nouveau client." alt="" coords="5,5,148,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,21,148,21,148,15,182,15"/>
-</map>

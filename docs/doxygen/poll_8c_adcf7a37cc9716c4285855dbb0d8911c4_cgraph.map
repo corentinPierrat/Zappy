@@ -1,7 +1,0 @@
-<map id="compute_poll_timeout" name="compute_poll_timeout">
-<area shape="rect" id="Node000001" title="Fonction pour obtenir le temps minimum d&#39;attente pour un client." alt="" coords="5,31,173,56"/>
-<area shape="rect" id="Node000002" href="$poll_8c.html#a1f13b094ec6ee688763dbedf7102f1bb" title=" " alt="" coords="221,5,376,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,31,208,26,208,32,174,36"/>
-<area shape="rect" id="Node000003" href="$poll_8c.html#aafd7d966db1d0cebb76dd52d194f9ee5" title=" " alt="" coords="232,55,365,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,50,219,56,218,61,173,56"/>
-</map>

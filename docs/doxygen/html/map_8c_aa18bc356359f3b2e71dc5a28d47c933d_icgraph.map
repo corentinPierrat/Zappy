@@ -1,0 +1,5 @@
+<map id="spawn_ressources" name="spawn_ressources">
+<area shape="rect" id="node1" title="fonction pour faire le spawn des ressources." alt="" coords="139,31,269,56"/>
+<area shape="rect" id="node2" href="$map_8c.html#a73d56d7b4fd0e4733872b1914096da8f" title="Initialise la carte du serveur." alt="" coords="13,5,83,31"/>
+<area shape="rect" id="node3" href="$game_8c.html#adb2c3fc6837f9e3291e938d6b4d5360e" title="boucle principale du jeu." alt="" coords="5,55,91,80"/>
+</map>

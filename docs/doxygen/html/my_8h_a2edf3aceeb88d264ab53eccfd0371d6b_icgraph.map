@@ -1,0 +1,28 @@
+<map id="command_bad" name="command_bad">
+<area shape="rect" id="node1" title="Commande pour gérer les commandes invalides." alt="" coords="864,499,971,524"/>
+<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="656,499,816,524"/>
+<area shape="rect" id="node3" href="$command__bct_8c.html#ac348cdb244813b2c5a0af2fde8160828" title="Commande &quot;bct&quot; : envoie les ressources d&#39;une tuile spécifique au client." alt="" coords="477,5,581,31"/>
+<area shape="rect" id="node4" href="$command__broadcast_8c.html#a0a2bb6e66c6e88821c2dad0171998b65" title="Commande &quot;broadcast&quot;: Envoie un message à tous les clients." alt="" coords="458,55,601,80"/>
+<area shape="rect" id="node5" href="$command__connect__nbr_8c.html#a75fbdf25b334f3e79d39d78e1ceea1b9" title="Commande &quot;ConnectNbr&quot; : envoie le nombre de slots disponibles." alt="" coords="451,104,608,129"/>
+<area shape="rect" id="node6" href="$command__eject_8c.html#a050406748a9811d87904bef84a81a8fc" title="Commande &quot;eject&quot;: Ejecte un client d&#39;une case." alt="" coords="472,153,587,179"/>
+<area shape="rect" id="node7" href="$command__fork_8c.html#a5e351863001e016c39d72792d9a09c3e" title="Commande &quot;fork&quot;: Crée un nouvel oeuf." alt="" coords="475,203,583,228"/>
+<area shape="rect" id="node8" href="$command__forward_8c.html#a5d971d1a618f50a2287172aba534bebc" title="Commande &quot;Forward&quot; : déplace le client d&#39;une case." alt="" coords="465,252,594,277"/>
+<area shape="rect" id="node9" href="$command__incantation_8c.html#a7a4e14d18d555a1c5b6b690a0dd48f2d" title=" " alt="" coords="455,301,604,327"/>
+<area shape="rect" id="node10" href="$command__inventory_8c.html#aff6d36991615a547b5f0e404ff1c0260" title="Commande &quot;Inventory&quot; : envoie l&#39;inventaire du client." alt="" coords="460,351,599,376"/>
+<area shape="rect" id="node11" href="$command__left_8c.html#aa798c4b5306c0c363f266605c3a643c4" title="Commande &quot;Left&quot; : fait tourner le client à gauche." alt="" coords="477,400,581,425"/>
+<area shape="rect" id="node12" href="$commande__look_8c.html#a81339befb98098c927b514c4cf8976c1" title=" " alt="" coords="474,449,585,475"/>
+<area shape="rect" id="node13" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="475,499,583,524"/>
+<area shape="rect" id="node17" href="$command__msz_8c.html#a8c506861faa708448e7591d45c22e0d0" title="Commande &quot;msz&quot; : envoie la taille de la carte au client." alt="" coords="474,548,585,573"/>
+<area shape="rect" id="node18" href="$command__pin_8c.html#ac37719bd76b529455c73eb629b37fce4" title="Commande &quot;pin&quot; : envoie l&#39;inventaire d&#39;un client spécifique." alt="" coords="478,597,581,623"/>
+<area shape="rect" id="node19" href="$command__plv_8c.html#a90f200b972774f433f54d352553b1f37" title="Commande &quot;plv&quot; : envoie le niveau d&#39;un client spécifique." alt="" coords="478,647,581,672"/>
+<area shape="rect" id="node20" href="$command__ppo_8c.html#a22b823725e3c56e1027f727a1b63346d" title="Commande &quot;ppo&quot; : envoie l&#39;orientation et les coordonnées d&#39;un client spécifique." alt="" coords="476,696,583,721"/>
+<area shape="rect" id="node21" href="$command__right_8c.html#a3b7cd14c6501bdbf68c5d688bf209ea8" title="Commande &quot;Right&quot; : fait tourner le client à droite." alt="" coords="474,745,585,771"/>
+<area shape="rect" id="node22" href="$command__set_8c.html#a9c6ae75be8093238113061e48b85593a" title="Commande &quot;set&quot;: permet à un client de déposer une ressource." alt="" coords="477,795,581,820"/>
+<area shape="rect" id="node23" href="$command__sgt_8c.html#a84b9a9324a5e9f62a3c261f0a51c1d71" title="Commande &quot;sgt&quot; : envoie la fréquence." alt="" coords="477,844,581,869"/>
+<area shape="rect" id="node24" href="$command__sst_8c.html#ad3d1e38d6e9ae93e822c2bdcb034eef2" title="Commande &quot;sst&quot; : change la fréquence du serveur." alt="" coords="477,893,581,919"/>
+<area shape="rect" id="node25" href="$command__take_8c.html#a5d2340b51f3c2c893e838f6b769964d3" title="Commande &quot;Take&quot; : permet à un client de prendre une ressource." alt="" coords="474,943,585,968"/>
+<area shape="rect" id="node26" href="$command__tna_8c.html#a4d0c76e3fa8367d912225ebc2c10266b" title="Commande &quot;tna&quot; : envoie les noms des équipes au client." alt="" coords="477,992,581,1017"/>
+<area shape="rect" id="node14" href="$command__auth_8c.html#a70a1d2080810f9eebebf1b9d296679f3" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="292,696,403,721"/>
+<area shape="rect" id="node15" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="152,696,244,721"/>
+<area shape="rect" id="node16" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,696,104,721"/>
+</map>

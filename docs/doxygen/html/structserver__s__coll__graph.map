@@ -1,0 +1,11 @@
+<map id="server_s" name="server_s">
+<area shape="rect" id="node1" title="Structure principale du serveur." alt="" coords="350,284,422,309"/>
+<area shape="rect" id="node2" href="$structteam__s.html" title=" " alt="" coords="248,93,313,119"/>
+<area shape="rect" id="node4" href="$structclient__s.html" title="Représente un client connecté au serveur." alt="" coords="115,181,182,207"/>
+<area shape="rect" id="node3" href="$structegg__s.html" title=" " alt="" coords="252,5,309,31"/>
+<area shape="rect" id="node7" href="$structcommand__s.html" title=" " alt="" coords="102,284,195,309"/>
+<area shape="rect" id="node5" href="$structqueue__s.html" title="Représente une file d&#39;attente de commandes." alt="" coords="5,475,76,500"/>
+<area shape="rect" id="node6" href="$structnode__s.html" title="Représente un nœud dans une file d&#39;attente de commandes." alt="" coords="89,372,153,397"/>
+<area shape="rect" id="node8" href="$structgame__time__s.html" title=" " alt="" coords="477,181,577,207"/>
+<area shape="rect" id="node9" href="$structtile__s.html" title=" " alt="" coords="310,181,363,207"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Hud::draw" name="Hud::draw">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,88,155"/>
+<area shape="rect" id="node2" href="$classHud.html#a6b8e14bbba4b09e41ba4f764ad67abfd" title=" " alt="" coords="136,56,309,81"/>
+<area shape="rect" id="node11" href="$classHud.html#a74884feaf8df98471109360510b769e8" title=" " alt="" coords="165,155,280,180"/>
+<area shape="rect" id="node3" href="$classPlayer.html#a69ee7ea24ebba0be1ab3c7157e7c5ffa" title=" " alt="" coords="732,17,828,43"/>
+<area shape="rect" id="node4" href="$classPlayer.html#ac33e1ec2c3bdab443cdb5e6200563db2" title=" " alt="" coords="357,31,496,56"/>
+<area shape="rect" id="node5" href="$classHud.html#aa1ab0d738742082470659860ce7aa9be" title=" " alt="" coords="358,80,495,105"/>
+<area shape="rect" id="node6" href="$classTeam.html#aa56b061fa31568d2fc546bf56a82a565" title="Récupère la liste des joueurs de l&#39;équipe." alt="" coords="552,68,676,93"/>
+<area shape="rect" id="node7" href="$classGame.html#af7b45f8c6af593b600f71e3fe9f72cb9" title=" " alt="" coords="553,167,675,192"/>
+<area shape="rect" id="node8" href="$classGame.html#a47bc4747dcc4412b69bae2620e895e8f" title=" " alt="" coords="544,117,684,143"/>
+<area shape="rect" id="node9" href="$classPlayer.html#a6df1b6d0bf59b811783c3d9233aab996" title=" " alt="" coords="733,92,827,117"/>
+<area shape="rect" id="node10" href="$classPlayer.html#a9acaa8e0123935e2104dda7973d62fe4" title=" " alt="" coords="733,141,827,167"/>
+<area shape="rect" id="node12" href="$classTeam.html#a491cc48cda0cfaca9ef65059a52ef54a" title="Récupère le nom de l&#39;équipe." alt="" coords="369,205,484,231"/>
+</map>
