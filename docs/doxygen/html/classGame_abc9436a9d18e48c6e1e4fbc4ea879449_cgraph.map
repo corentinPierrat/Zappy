@@ -1,14 +1,30 @@
 <map id="Game::runGame" name="Game::runGame">
-<area shape="rect" id="node1" title=" " alt="" coords="5,157,124,183"/>
-<area shape="rect" id="node2" href="$classGame.html#a15ddd769261d923827a3cdf41499c843" title=" " alt="" coords="173,57,275,83"/>
-<area shape="rect" id="node4" href="$classGame.html#a79df6376b332d63c9eca0dcee30305c3" title=" " alt="" coords="172,157,276,183"/>
-<area shape="rect" id="node12" href="$classError.html#a94f60633baf3f7cbd175c05a2d5bec86" title="Retourne le message d&#39;erreur." alt="" coords="181,207,267,232"/>
-<area shape="rect" id="node3" href="$classGame.html#a5dfd2cda2e2a60dc72593dd43d8c9c6e" title=" " alt="" coords="324,5,480,31"/>
-<area shape="rect" id="node5" href="$classPlayer.html#a69ee7ea24ebba0be1ab3c7157e7c5ffa" title=" " alt="" coords="716,208,812,233"/>
-<area shape="rect" id="node6" href="$classPlayer.html#a9e0e4bf0deea0c8470dd3f01f7118f05" title=" " alt="" coords="328,157,476,183"/>
-<area shape="rect" id="node7" href="$classGame.html#a7494872cb13371cc87169ebb7a16f885" title=" " alt="" coords="329,259,475,284"/>
-<area shape="rect" id="node9" href="$classGame.html#a47bc4747dcc4412b69bae2620e895e8f" title=" " alt="" coords="528,157,668,183"/>
-<area shape="rect" id="node10" href="$classPlayer.html#a6df1b6d0bf59b811783c3d9233aab996" title=" " alt="" coords="717,69,811,95"/>
-<area shape="rect" id="node11" href="$classPlayer.html#a9acaa8e0123935e2104dda7973d62fe4" title=" " alt="" coords="717,144,811,169"/>
-<area shape="rect" id="node8" href="$classTeam.html#aa56b061fa31568d2fc546bf56a82a565" title="Récupère la liste des joueurs de l&#39;équipe." alt="" coords="536,259,660,284"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,157,135,183"/>
+<area shape="rect" id="Node000002" href="$classGame.html#a15ddd769261d923827a3cdf41499c843" title=" " alt="" coords="185,57,295,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,155,204,87,207,92,94,159"/>
+<area shape="rect" id="Node000004" href="$classGame.html#a79df6376b332d63c9eca0dcee30305c3" title=" " alt="" coords="183,157,297,183"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,167,169,167,169,173,135,173"/>
+<area shape="rect" id="Node000012" href="$classError.html#a94f60633baf3f7cbd175c05a2d5bec86" title="Retourne le message d&#39;erreur." alt="" coords="193,207,287,232"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="115,180,183,200,181,205,114,185"/>
+<area shape="rect" id="Node000003" href="$classGame.html#a5dfd2cda2e2a60dc72593dd43d8c9c6e" title=" " alt="" coords="345,5,516,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,55,369,32,371,37,288,60"/>
+<area shape="rect" id="Node000005" href="$classPlayer.html#a69ee7ea24ebba0be1ab3c7157e7c5ffa" title="Récupère l&#39;identifiant du joueur." alt="" coords="765,208,869,233"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,181,299,193,310,207,316,221,321,249,328,273,335,284,347,294,396,322,441,339,483,347,525,347,567,341,612,329,716,294,739,284,759,271,793,241,797,245,763,275,741,289,718,299,614,334,568,346,525,352,483,352,440,344,394,327,344,299,331,288,323,276,316,250,311,223,306,210,296,197,278,185"/>
+<area shape="rect" id="Node000006" href="$classPlayer.html#a9e0e4bf0deea0c8470dd3f01f7118f05" title="Récupère l&#39;orientation du joueur." alt="" coords="348,157,513,183"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="298,167,334,167,334,173,298,173"/>
+<area shape="rect" id="Node000007" href="$classGame.html#a7494872cb13371cc87169ebb7a16f885" title=" " alt="" coords="351,259,511,284"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="276,180,299,193,323,216,347,237,375,251,372,256,344,242,319,220,296,197,273,185"/>
+<area shape="rect" id="Node000009" href="$classGame.html#a47bc4747dcc4412b69bae2620e895e8f" title=" " alt="" coords="564,157,717,183"/>
+<area shape="poly" id="edge15_Node000004_Node000009" title=" " alt="" coords="284,180,346,193,431,199,516,193,575,183,576,188,516,198,431,204,345,198,283,185"/>
+<area shape="rect" id="Node000010" href="$classPlayer.html#a6df1b6d0bf59b811783c3d9233aab996" title="Récupère la position X du joueur." alt="" coords="767,69,868,95"/>
+<area shape="poly" id="edge13_Node000004_Node000010" title=" " alt="" coords="262,155,300,136,345,119,456,97,568,84,671,79,753,78,753,83,671,84,569,90,457,102,346,125,302,141,264,160"/>
+<area shape="rect" id="Node000011" href="$classPlayer.html#a9acaa8e0123935e2104dda7973d62fe4" title="Récupère la position Y du joueur." alt="" coords="767,144,867,169"/>
+<area shape="poly" id="edge14_Node000004_Node000011" title=" " alt="" coords="286,155,345,143,449,134,531,133,718,143,754,146,753,152,717,149,531,138,450,140,346,149,287,160"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="496,256,564,245,751,224,752,229,564,250,497,261"/>
+<area shape="rect" id="Node000008" href="$classTeam.html#aa56b061fa31568d2fc546bf56a82a565" title="Récupère la liste des joueurs de l&#39;équipe." alt="" coords="573,259,708,284"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="511,269,559,269,559,274,511,274"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="472,256,515,237,538,219,563,200,591,186,593,190,565,204,542,223,517,242,474,261"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="687,180,760,202,759,207,685,185"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="666,155,777,99,780,103,669,160"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="718,162,753,159,754,164,718,167"/>
 </map>

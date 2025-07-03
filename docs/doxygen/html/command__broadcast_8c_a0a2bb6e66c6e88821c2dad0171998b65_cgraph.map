@@ -1,8 +1,15 @@
 <map id="command_broadcast" name="command_broadcast">
-<area shape="rect" id="node1" title="Commande &quot;broadcast&quot;: Envoie un message à tous les clients." alt="" coords="5,56,148,81"/>
-<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="196,5,356,31"/>
-<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="559,56,665,81"/>
-<area shape="rect" id="node5" href="$command__broadcast_8c.html#a1e84789413a7f652acb84fe708eabf5f" title=" " alt="" coords="214,107,338,132"/>
-<area shape="rect" id="node3" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="404,5,511,31"/>
-<area shape="rect" id="node6" href="$command__broadcast_8c.html#a19e986c575af602c93f1a3c2e182be8c" title="Fonction pour obtenir la direction entre deux clients." alt="" coords="409,157,505,183"/>
+<area shape="rect" id="Node000001" title="Commande &quot;broadcast&quot;: Envoie un message à tous les clients." alt="" coords="5,56,164,81"/>
+<area shape="rect" id="Node000002" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="212,5,388,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,53,231,31,233,36,140,58"/>
+<area shape="rect" id="Node000004" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="603,56,719,81"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="165,66,589,66,589,71,165,71"/>
+<area shape="rect" id="Node000005" href="$command__broadcast_8c.html#a1e84789413a7f652acb84fe708eabf5f" title=" " alt="" coords="231,107,369,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="140,79,233,101,231,106,139,84"/>
+<area shape="rect" id="Node000003" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="436,5,555,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,15,422,15,422,21,388,21"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="539,28,606,49,604,54,537,33"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="368,109,554,85,589,79,590,84,555,90,369,114"/>
+<area shape="rect" id="Node000006" href="$command__broadcast_8c.html#a19e986c575af602c93f1a3c2e182be8c" title="Fonction pour obtenir la direction entre deux clients." alt="" coords="442,157,549,183"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="351,130,433,151,432,156,349,135"/>
 </map>

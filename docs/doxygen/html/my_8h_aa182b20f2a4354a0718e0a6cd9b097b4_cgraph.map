@@ -1,0 +1,11 @@
+<map id="init_teams" name="init_teams">
+<area shape="rect" id="Node000001" title="Fonction pour initialiser les équipes du serveur." alt="" coords="5,55,96,80"/>
+<area shape="rect" id="Node000002" href="$team_8c.html#a13d4effa9bd067175d114ef5dd0e506a" title=" " alt="" coords="144,5,289,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,52,159,32,161,37,95,57"/>
+<area shape="rect" id="Node000004" href="$parsing_8c.html#a139b060d9b561eec06c008354261ede3" title="Fonction pour initialiser la team GUI." alt="" coords="161,55,272,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,65,148,65,148,70,96,70"/>
+<area shape="rect" id="Node000005" href="$team_8c.html#a76220c00103d4299bbfb12d71730fd77" title=" " alt="" coords="153,104,281,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="95,77,161,97,159,102,93,83"/>
+<area shape="rect" id="Node000003" href="$team_8c.html#a0743570508af38b845de4c14d60f7190" title=" " alt="" coords="337,5,497,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="289,15,324,15,324,21,289,21"/>
+</map>

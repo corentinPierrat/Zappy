@@ -1,4 +1,5 @@
 <map id="handle_numeric_flag" name="handle_numeric_flag">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,147,31"/>
-<area shape="rect" id="node2" href="$parsing_8c.html#ada5450b2a5fc334042ba0f7d77337b37" title=" " alt="" coords="195,5,316,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,163,31"/>
+<area shape="rect" id="Node000002" href="$parsing_8c.html#ada5450b2a5fc334042ba0f7d77337b37" title=" " alt="" coords="211,5,344,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,15,197,15,197,21,163,21"/>
 </map>

@@ -1,8 +1,13 @@
 <map id="format_bct_response" name="format_bct_response">
-<area shape="rect" id="node1" title="Fonction pour formatter la reponse bct." alt="" coords="607,31,751,56"/>
-<area shape="rect" id="node2" href="$command__bct_8c.html#ac348cdb244813b2c5a0af2fde8160828" title="Commande &quot;bct&quot; : envoie les ressources d&#39;une tuile spécifique au client." alt="" coords="453,5,557,31"/>
-<area shape="rect" id="node3" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="451,55,559,80"/>
-<area shape="rect" id="node4" href="$command__auth_8c.html#a70a1d2080810f9eebebf1b9d296679f3" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="292,55,403,80"/>
-<area shape="rect" id="node5" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="152,55,244,80"/>
-<area shape="rect" id="node6" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,55,104,80"/>
+<area shape="rect" id="Node000001" title="Fonction pour formatter la reponse bct." alt="" coords="652,31,811,56"/>
+<area shape="rect" id="Node000002" href="$command__bct_8c.html#ac348cdb244813b2c5a0af2fde8160828" title="Commande &quot;bct&quot; : envoie les ressources d&#39;une tuile spécifique au client." alt="" coords="487,5,602,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="638,33,602,28,603,23,639,28"/>
+<area shape="rect" id="Node000003" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="485,55,604,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="639,58,604,62,604,57,638,53"/>
+<area shape="rect" id="Node000004" href="$command__auth_8c.html#a70a1d2080810f9eebebf1b9d296679f3" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="315,55,437,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,70,438,70,438,65,472,65"/>
+<area shape="rect" id="Node000005" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="164,55,267,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="301,70,267,70,267,65,301,65"/>
+<area shape="rect" id="Node000006" href="$command_8c.html#a6eb92ef6904a4b1750af1d0dd9939a11" title="Gère le buffer que le client a envoyé." alt="" coords="5,55,116,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="150,70,116,70,116,65,150,65"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="Game::getTeamWinner" name="Game::getTeamWinner">
-<area shape="rect" id="node1" title=" " alt="" coords="321,31,477,56"/>
-<area shape="rect" id="node2" href="$classGame.html#a15ddd769261d923827a3cdf41499c843" title=" " alt="" coords="172,31,273,56"/>
-<area shape="rect" id="node3" href="$classClient.html#ad2cfacbefea1e51e34c4697403fb82cb" title=" " alt="" coords="23,5,106,31"/>
-<area shape="rect" id="node4" href="$classGame.html#abc9436a9d18e48c6e1e4fbc4ea879449" title=" " alt="" coords="5,55,124,80"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="341,31,512,56"/>
+<area shape="rect" id="Node000002" href="$classGame.html#a15ddd769261d923827a3cdf41499c843" title=" " alt="" coords="183,31,293,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,46,294,46,294,41,327,41"/>
+<area shape="rect" id="Node000003" href="$classClient.html#ad2cfacbefea1e51e34c4697403fb82cb" title="Lance la boucle principale du client, gérant la réception et l’affichage." alt="" coords="25,5,115,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="168,36,115,27,116,22,169,30"/>
+<area shape="rect" id="Node000004" href="$classGame.html#abc9436a9d18e48c6e1e4fbc4ea879449" title=" " alt="" coords="5,55,135,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="169,56,135,61,134,55,169,51"/>
 </map>

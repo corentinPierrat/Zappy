@@ -1,11 +1,26 @@
 <map id="command_auth" name="command_auth">
-<area shape="rect" id="node1" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="5,103,116,128"/>
-<area shape="rect" id="node2" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="165,53,273,79"/>
-<area shape="rect" id="node5" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="685,103,792,128"/>
-<area shape="rect" id="node7" href="$command__msz_8c.html#a8c506861faa708448e7591d45c22e0d0" title="Commande &quot;msz&quot; : envoie la taille de la carte au client." alt="" coords="164,152,275,177"/>
-<area shape="rect" id="node8" href="$command__sgt_8c.html#a84b9a9324a5e9f62a3c261f0a51c1d71" title="Commande &quot;sgt&quot; : envoie la fréquence." alt="" coords="167,201,271,227"/>
-<area shape="rect" id="node9" href="$command__tna_8c.html#a4d0c76e3fa8367d912225ebc2c10266b" title="Commande &quot;tna&quot; : envoie les noms des équipes au client." alt="" coords="167,103,271,128"/>
-<area shape="rect" id="node3" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="323,103,483,128"/>
-<area shape="rect" id="node6" href="$command__bct_8c.html#ae1e6d2b47d7257cb78f97f8777399a34" title="Fonction pour formatter la reponse bct." alt="" coords="331,53,475,79"/>
-<area shape="rect" id="node4" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="531,103,637,128"/>
+<area shape="rect" id="Node000001" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="5,103,128,128"/>
+<area shape="rect" id="Node000002" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="177,54,296,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,101,178,81,179,86,112,106"/>
+<area shape="rect" id="Node000005" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="736,103,852,128"/>
+<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="80,101,121,69,147,52,175,39,225,21,268,10,308,4,345,3,423,8,522,17,607,23,644,29,689,44,732,67,769,92,766,97,730,71,687,49,642,34,606,28,521,22,423,13,345,8,308,10,270,16,227,27,177,44,150,57,124,73,84,105"/>
+<area shape="rect" id="Node000007" href="$command__msz_8c.html#a8c506861faa708448e7591d45c22e0d0" title="Commande &quot;msz&quot; : envoie la taille de la carte au client." alt="" coords="176,152,297,178"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="112,126,179,146,178,151,110,131"/>
+<area shape="rect" id="Node000008" href="$command__sgt_8c.html#a84b9a9324a5e9f62a3c261f0a51c1d71" title="Commande &quot;sgt&quot; : envoie la fréquence." alt="" coords="179,202,294,227"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="86,126,127,156,177,187,191,194,189,198,175,191,124,160,83,131"/>
+<area shape="rect" id="Node000009" href="$command__tna_8c.html#a4d0c76e3fa8367d912225ebc2c10266b" title="Commande &quot;tna&quot; : envoie les noms des équipes au client." alt="" coords="179,103,294,128"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="128,113,165,113,165,118,128,118"/>
+<area shape="rect" id="Node000003" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="345,103,521,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="289,77,370,97,368,102,287,82"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="281,51,345,39,433,31,522,39,583,50,644,64,746,96,745,101,643,70,582,55,521,44,433,37,346,44,282,56"/>
+<area shape="rect" id="Node000006" href="$command__bct_8c.html#ae1e6d2b47d7257cb78f97f8777399a34" title="Fonction pour formatter la reponse bct." alt="" coords="354,54,513,79"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="296,64,340,64,340,69,296,69"/>
+<area shape="rect" id="Node000004" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="569,103,688,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="521,113,556,113,556,118,521,118"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="688,113,722,113,722,118,688,118"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="287,150,368,129,370,134,289,155"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="298,162,473,157,580,149,688,137,731,129,732,134,688,142,581,155,473,162,298,168"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="269,199,296,187,397,133,399,138,299,192,271,204"/>
+<area shape="poly" id="edge12_Node000008_Node000005" title=" " alt="" coords="294,210,471,195,580,179,687,156,753,132,755,137,689,161,581,184,472,200,295,215"/>
+<area shape="poly" id="edge14_Node000009_Node000003" title=" " alt="" coords="294,113,332,113,332,118,294,118"/>
 </map>

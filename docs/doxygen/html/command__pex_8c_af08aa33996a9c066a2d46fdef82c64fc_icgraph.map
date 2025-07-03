@@ -1,4 +1,5 @@
 <map id="command_pex" name="command_pex">
-<area shape="rect" id="node1" title="Commande &quot;pex&quot;: Envoie un message de prise de ressource au GUI." alt="" coords="168,5,275,31"/>
-<area shape="rect" id="node2" href="$command__eject_8c.html#a050406748a9811d87904bef84a81a8fc" title="Commande &quot;eject&quot;: Ejecte un client d&#39;une case." alt="" coords="5,5,120,31"/>
+<area shape="rect" id="Node000001" title="Commande &quot;pex&quot;: Envoie un message de prise de ressource au GUI." alt="" coords="180,5,299,31"/>
+<area shape="rect" id="Node000002" href="$command__eject_8c.html#a050406748a9811d87904bef84a81a8fc" title="Commande &quot;eject&quot;: Ejecte un client d&#39;une case." alt="" coords="5,5,132,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,21,132,21,132,15,166,15"/>
 </map>

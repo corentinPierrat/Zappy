@@ -1,10 +1,22 @@
 <map id="Game::update" name="Game::update">
-<area shape="rect" id="node1" title=" " alt="" coords="5,140,109,166"/>
-<area shape="rect" id="node2" href="$classPlayer.html#a69ee7ea24ebba0be1ab3c7157e7c5ffa" title=" " alt="" coords="541,15,637,40"/>
-<area shape="rect" id="node3" href="$classPlayer.html#a9e0e4bf0deea0c8470dd3f01f7118f05" title=" " alt="" coords="157,267,305,292"/>
-<area shape="rect" id="node4" href="$classGame.html#a7494872cb13371cc87169ebb7a16f885" title=" " alt="" coords="158,64,305,90"/>
-<area shape="rect" id="node6" href="$classGame.html#a47bc4747dcc4412b69bae2620e895e8f" title=" " alt="" coords="353,115,493,140"/>
-<area shape="rect" id="node7" href="$classPlayer.html#a6df1b6d0bf59b811783c3d9233aab996" title=" " alt="" coords="542,140,637,166"/>
-<area shape="rect" id="node8" href="$classPlayer.html#a9acaa8e0123935e2104dda7973d62fe4" title=" " alt="" coords="542,190,637,215"/>
-<area shape="rect" id="node5" href="$classTeam.html#aa56b061fa31568d2fc546bf56a82a565" title="Récupère la liste des joueurs de l&#39;équipe." alt="" coords="361,66,485,91"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,142,120,167"/>
+<area shape="rect" id="Node000002" href="$classPlayer.html#a69ee7ea24ebba0be1ab3c7157e7c5ffa" title="Récupère l&#39;identifiant du joueur." alt="" coords="583,16,687,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,140,108,95,136,70,167,51,218,30,272,17,327,8,382,4,485,6,569,15,568,20,485,11,382,9,328,13,273,22,220,36,169,55,139,75,112,98,75,143"/>
+<area shape="rect" id="Node000003" href="$classPlayer.html#a9e0e4bf0deea0c8470dd3f01f7118f05" title="Récupère l&#39;orientation du joueur." alt="" coords="168,268,333,294"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="77,166,116,205,169,247,197,261,195,266,167,251,113,209,74,170"/>
+<area shape="rect" id="Node000004" href="$classGame.html#a7494872cb13371cc87169ebb7a16f885" title=" " alt="" coords="171,66,331,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="92,139,167,108,203,94,205,99,169,113,95,144"/>
+<area shape="rect" id="Node000006" href="$classGame.html#a47bc4747dcc4412b69bae2620e895e8f" title=" " alt="" coords="381,116,535,142"/>
+<area shape="poly" id="edge12_Node000001_Node000006" title=" " alt="" coords="120,148,367,132,368,137,120,153"/>
+<area shape="rect" id="Node000007" href="$classPlayer.html#a6df1b6d0bf59b811783c3d9233aab996" title="Récupère la position X du joueur." alt="" coords="584,142,685,167"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="120,152,570,152,570,157,120,157"/>
+<area shape="rect" id="Node000008" href="$classPlayer.html#a9acaa8e0123935e2104dda7973d62fe4" title="Récupère la position Y du joueur." alt="" coords="585,191,685,216"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="120,157,571,196,571,201,120,162"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="315,63,381,52,568,31,569,37,382,57,315,68"/>
+<area shape="rect" id="Node000005" href="$classTeam.html#aa56b061fa31568d2fc546bf56a82a565" title="Récupère la liste des joueurs de l&#39;équipe." alt="" coords="391,67,525,92"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="331,76,377,77,377,82,331,82"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="304,89,393,111,392,116,303,94"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="504,114,533,101,574,76,608,49,611,53,577,80,536,106,506,119"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="536,137,571,143,570,148,535,143"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="490,139,593,183,590,188,488,144"/>
 </map>

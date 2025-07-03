@@ -1,11 +1,25 @@
 <map id="server_s" name="server_s">
-<area shape="rect" id="node1" title="Structure principale du serveur." alt="" coords="350,284,422,309"/>
-<area shape="rect" id="node2" href="$structteam__s.html" title=" " alt="" coords="248,93,313,119"/>
-<area shape="rect" id="node4" href="$structclient__s.html" title="Représente un client connecté au serveur." alt="" coords="115,181,182,207"/>
-<area shape="rect" id="node3" href="$structegg__s.html" title=" " alt="" coords="252,5,309,31"/>
-<area shape="rect" id="node7" href="$structcommand__s.html" title=" " alt="" coords="102,284,195,309"/>
-<area shape="rect" id="node5" href="$structqueue__s.html" title="Représente une file d&#39;attente de commandes." alt="" coords="5,475,76,500"/>
-<area shape="rect" id="node6" href="$structnode__s.html" title="Représente un nœud dans une file d&#39;attente de commandes." alt="" coords="89,372,153,397"/>
-<area shape="rect" id="node8" href="$structgame__time__s.html" title=" " alt="" coords="477,181,577,207"/>
-<area shape="rect" id="node9" href="$structtile__s.html" title=" " alt="" coords="310,181,363,207"/>
+<area shape="rect" id="Node000001" title="Structure principale du serveur." alt="" coords="382,284,459,309"/>
+<area shape="rect" id="Node000002" href="$structteam__s.html" title=" " alt="" coords="269,93,340,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="342,123,379,147,412,180,425,199,432,217,431,260,427,284,421,283,426,260,426,218,420,202,408,183,375,151,339,128"/>
+<area shape="rect" id="Node000004" href="$structclient__s.html" title="Représente un client connecté au serveur." alt="" coords="126,181,198,207"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="275,128,183,183,180,179,273,123"/>
+<area shape="rect" id="Node000003" href="$structegg__s.html" title=" " alt="" coords="275,5,335,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,45,307,93,302,93,302,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="350,8,358,11,361,18,353,27,335,29,335,23,351,22,356,18,354,16,348,13"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="212,203,249,214,287,228,310,243,331,258,387,281,385,286,329,262,307,247,285,233,248,219,211,208"/>
+<area shape="poly" id="edge12_Node000004_Node000004" title=" " alt="" coords="213,185,221,188,225,194,216,203,199,205,198,199,214,198,219,194,218,192,211,190"/>
+<area shape="rect" id="Node000007" href="$structcommand__s.html" title=" " alt="" coords="111,284,213,309"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="114,207,93,217,78,232,73,245,78,259,93,273,112,283,110,288,90,278,73,261,67,245,73,229,90,213,111,202"/>
+<area shape="rect" id="Node000005" href="$structqueue__s.html" title="Représente une file d&#39;attente de commandes." alt="" coords="5,475,81,500"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="33,462,20,403,18,368,21,333,32,276,42,253,63,229,93,209,125,198,127,204,95,214,66,233,47,256,37,278,26,334,23,368,25,403,38,461"/>
+<area shape="rect" id="Node000006" href="$structnode__s.html" title="Représente un nœud dans une file d&#39;attente de commandes." alt="" coords="97,372,165,397"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="114,410,55,476,51,473,110,406"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="180,375,188,378,192,385,184,393,166,395,166,390,181,388,187,384,185,382,178,380"/>
+<area shape="poly" id="edge11_Node000004_Node000007" title=" " alt="" coords="159,270,159,207,165,207,165,270"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="156,323,138,372,133,371,151,321"/>
+<area shape="rect" id="Node000008" href="$structgame__time__s.html" title=" " alt="" coords="517,181,628,207"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="545,217,439,286,436,282,542,212"/>
+<area shape="rect" id="Node000009" href="$structtile__s.html" title=" " alt="" coords="341,181,399,207"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="380,219,398,259,413,282,409,285,393,261,375,221"/>
 </map>

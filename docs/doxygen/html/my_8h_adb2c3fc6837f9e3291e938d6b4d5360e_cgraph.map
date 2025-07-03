@@ -1,15 +1,28 @@
 <map id="loop_game" name="loop_game">
-<area shape="rect" id="node1" title="boucle principale du jeu." alt="" coords="5,129,91,155"/>
-<area shape="rect" id="node2" href="$map_8c.html#aa18bc356359f3b2e71dc5a28d47c933d" title="fonction pour faire le spawn des ressources." alt="" coords="139,55,269,80"/>
-<area shape="rect" id="node5" href="$game_8c.html#ab351a22fe1006305dfc1022401ef7464" title=" " alt="" coords="157,104,251,129"/>
-<area shape="rect" id="node12" href="$game_8c.html#a2f4dc74d77b16fa72272772b6ae77be5" title=" " alt="" coords="157,153,251,179"/>
-<area shape="rect" id="node13" href="$game_8c.html#a43c02f8db519310f0c43211424cac450" title=" " alt="" coords="149,203,259,228"/>
-<area shape="rect" id="node3" href="$map_8c.html#ae0ed7035c9dd0d2dfaeb1abd12124841" title=" " alt="" coords="317,5,428,31"/>
-<area shape="rect" id="node4" href="$map_8c.html#a88547aeed8b743ef879cdb40d57bb289" title=" " alt="" coords="327,55,419,80"/>
-<area shape="rect" id="node6" href="$client_8c.html#a3ac2b447730cc2666a0c7af1656c5214" title="Supprime un client de la liste par son descripteur." alt="" coords="321,104,424,129"/>
-<area shape="rect" id="node9" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="763,104,869,129"/>
-<area shape="rect" id="node7" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="476,92,559,117"/>
-<area shape="rect" id="node8" href="$command__pdi_8c.html#a3bc620fd5bafa7a0b1f0ef987fdcd9ac" title="Commande &quot;pdi&quot;: envoie un message de mort du client au GUI." alt="" coords="609,29,712,55"/>
-<area shape="rect" id="node10" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="607,79,715,104"/>
-<area shape="rect" id="node11" href="$queue_8c.html#ac8395c96973c80c935435f6b31479397" title="Libère la mémoire allouée pour la file d&#39;attente." alt="" coords="617,128,704,153"/>
+<area shape="rect" id="Node000001" title="boucle principale du jeu." alt="" coords="5,129,100,155"/>
+<area shape="rect" id="Node000002" href="$map_8c.html#aa18bc356359f3b2e71dc5a28d47c933d" title="fonction pour faire le spawn des ressources." alt="" coords="148,55,289,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,127,147,89,163,82,165,87,149,94,76,132"/>
+<area shape="rect" id="Node000005" href="$game_8c.html#ab351a22fe1006305dfc1022401ef7464" title=" " alt="" coords="167,104,270,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="100,132,153,124,154,129,101,137"/>
+<area shape="rect" id="Node000012" href="$game_8c.html#a2f4dc74d77b16fa72272772b6ae77be5" title=" " alt="" coords="167,153,271,179"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="101,146,153,154,152,159,100,151"/>
+<area shape="rect" id="Node000013" href="$game_8c.html#a43c02f8db519310f0c43211424cac450" title=" " alt="" coords="157,203,281,228"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="77,152,149,189,165,195,163,200,147,194,75,157"/>
+<area shape="rect" id="Node000003" href="$map_8c.html#ae0ed7035c9dd0d2dfaeb1abd12124841" title=" " alt="" coords="337,5,459,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,52,337,32,338,37,266,57"/>
+<area shape="rect" id="Node000004" href="$map_8c.html#a88547aeed8b743ef879cdb40d57bb289" title=" " alt="" coords="347,55,449,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,65,333,65,333,70,290,70"/>
+<area shape="rect" id="Node000006" href="$client_8c.html#a3ac2b447730cc2666a0c7af1656c5214" title="Supprime un client de la liste par son descripteur." alt="" coords="341,104,455,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="270,114,327,114,327,119,270,119"/>
+<area shape="rect" id="Node000009" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="813,104,929,129"/>
+<area shape="poly" id="edge11_Node000005_Node000009" title=" " alt="" coords="263,127,355,149,480,170,550,177,622,179,694,175,765,163,803,151,836,134,839,139,805,156,766,169,695,180,622,184,550,182,479,175,354,154,262,132"/>
+<area shape="rect" id="Node000007" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="507,92,597,117"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="455,110,493,107,493,112,456,115"/>
+<area shape="rect" id="Node000008" href="$command__pdi_8c.html#a3bc620fd5bafa7a0b1f0ef987fdcd9ac" title="Commande &quot;pdi&quot;: envoie un message de mort du client au GUI." alt="" coords="648,29,763,55"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="583,89,644,64,659,58,661,63,646,68,585,94"/>
+<area shape="rect" id="Node000010" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="645,79,765,104"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="597,98,631,95,632,100,598,103"/>
+<area shape="rect" id="Node000011" href="$queue_8c.html#ac8395c96973c80c935435f6b31479397" title="Libère la mémoire allouée pour la file d&#39;attente." alt="" coords="658,128,753,153"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="598,113,645,124,644,129,597,118"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="740,52,766,64,834,95,831,100,764,68,738,57"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="is_incantation" name="is_incantation">
-<area shape="rect" id="node1" title=" " alt="" coords="203,5,305,31"/>
-<area shape="rect" id="node2" href="$command__incantation_8c.html#a7a4e14d18d555a1c5b6b690a0dd48f2d" title=" " alt="" coords="5,5,155,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="220,5,333,31"/>
+<area shape="rect" id="Node000002" href="$command__incantation_8c.html#a7a4e14d18d555a1c5b6b690a0dd48f2d" title=" " alt="" coords="5,5,172,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,21,172,21,172,15,206,15"/>
 </map>

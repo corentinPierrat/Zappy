@@ -1,7 +1,12 @@
 <map id="command_ppo" name="command_ppo">
-<area shape="rect" id="node1" title="Commande &quot;ppo&quot; : envoie l&#39;orientation et les coordonnées d&#39;un client spécifique." alt="" coords="5,56,112,81"/>
-<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="160,5,320,31"/>
-<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="523,31,629,56"/>
-<area shape="rect" id="node5" href="$client_8c.html#af848207a806ae31fce61993dc02c8fa0" title="Cherche un client dans la liste par son descripteur." alt="" coords="199,107,281,132"/>
-<area shape="rect" id="node3" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="368,5,475,31"/>
+<area shape="rect" id="Node000001" title="Commande &quot;ppo&quot; : envoie l&#39;orientation et les coordonnées d&#39;un client spécifique." alt="" coords="5,56,124,81"/>
+<area shape="rect" id="Node000002" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="172,5,348,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,53,197,32,198,37,115,58"/>
+<area shape="rect" id="Node000004" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="563,31,679,56"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="124,63,549,44,549,49,124,69"/>
+<area shape="rect" id="Node000005" href="$client_8c.html#af848207a806ae31fce61993dc02c8fa0" title="Cherche un client dans la liste par son descripteur." alt="" coords="215,107,305,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="115,79,203,102,201,107,114,84"/>
+<area shape="rect" id="Node000003" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="396,5,515,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,15,382,15,382,21,348,21"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="515,24,550,30,549,35,515,30"/>
 </map>

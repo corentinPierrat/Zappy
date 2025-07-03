@@ -1,8 +1,18 @@
 <map id="queue_s" name="queue_s">
-<area shape="rect" id="node1" title="Représente une file d&#39;attente de commandes." alt="" coords="5,93,76,119"/>
-<area shape="rect" id="node4" href="$structclient__s.html" title="Représente un client connecté au serveur." alt="" coords="110,181,177,207"/>
-<area shape="rect" id="node2" href="$structnode__s.html" title="Représente un nœud dans une file d&#39;attente de commandes." alt="" coords="9,372,73,397"/>
-<area shape="rect" id="node3" href="$structcommand__s.html" title=" " alt="" coords="57,284,150,309"/>
-<area shape="rect" id="node5" href="$structteam__s.html" title=" " alt="" coords="165,93,231,119"/>
-<area shape="rect" id="node6" href="$structegg__s.html" title=" " alt="" coords="169,5,227,31"/>
+<area shape="rect" id="Node000001" title="Représente une file d&#39;attente de commandes." alt="" coords="5,93,81,119"/>
+<area shape="rect" id="Node000004" href="$structclient__s.html" title="Représente un client connecté au serveur." alt="" coords="118,181,190,207"/>
+<area shape="poly" id="edge7_Node000004_Node000001" title=" " alt="" coords="50,131,56,144,64,155,90,173,119,184,117,189,87,178,60,159,51,147,46,133"/>
+<area shape="rect" id="Node000002" href="$structnode__s.html" title="Représente un nœud dans une file d&#39;attente de commandes." alt="" coords="9,372,77,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,358,41,119,46,119,46,358"/>
+<area shape="poly" id="edge10_Node000002_Node000002" title=" " alt="" coords="92,375,100,378,104,385,96,393,78,395,78,390,93,388,99,384,97,382,90,380"/>
+<area shape="rect" id="Node000003" href="$structcommand__s.html" title=" " alt="" coords="59,284,161,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,322,55,373,51,370,90,319"/>
+<area shape="poly" id="edge8_Node000004_Node000003" title=" " alt="" coords="91,273,83,252,83,240,86,229,100,214,116,204,119,209,103,219,91,232,88,241,88,251,96,271"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="202,212,219,229,225,246,219,261,207,274,193,283,162,294,160,289,191,278,204,270,214,259,219,246,214,232,198,215"/>
+<area shape="poly" id="edge9_Node000004_Node000004" title=" " alt="" coords="205,185,213,188,217,194,208,203,191,205,190,199,206,198,211,194,210,192,203,190"/>
+<area shape="rect" id="Node000005" href="$structteam__s.html" title=" " alt="" coords="179,93,249,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,132,187,159,167,182,163,179,183,156,199,130"/>
+<area shape="rect" id="Node000006" href="$structegg__s.html" title=" " alt="" coords="184,5,244,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="217,45,217,93,211,93,211,45"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="259,8,267,11,271,18,262,27,245,29,244,23,260,22,265,18,264,16,257,13"/>
 </map>

@@ -10,5 +10,5 @@ var searchData=
   ['forked_5fprocesses_7',['forked_processes',['../classclient_1_1Client.html#aec1f763aa8c1485e3258f5d20937f9ff',1,'client::Client']]],
   ['frequenceslider_8',['FrequenceSlider',['../classHud.html#a8e3c4240724433edf99151003f321e09',1,'Hud']]],
   ['frequency_9',['frequency',['../structserver__s.html#ac9e24c6ce8b9bad69fdd12241e530092',1,'server_s']]],
-  ['function_10',['function',['../structcommand__s.html#a137bf39de610b812de983f57969dca47',1,'command_s::function()'],['../structtab__s.html#a1706e6058ece95db08e309fa83321165',1,'tab_s::function()']]]
+  ['function_10',['function',['../structcommand__s.html#a137bf39de610b812de983f57969dca47',1,'command_s::function'],['../structtab__s.html#a1706e6058ece95db08e309fa83321165',1,'tab_s::function']]]
 ];

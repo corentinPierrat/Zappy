@@ -1,21 +1,47 @@
 <map id="handle_buffer" name="handle_buffer">
-<area shape="rect" id="node1" title="Gère le buffer que le client a envoyé." alt="" coords="5,133,104,159"/>
-<area shape="rect" id="node2" href="$command_8c.html#a30ef95eb7117bc7166fa6b264a0ce9b0" title=" " alt="" coords="152,83,267,108"/>
-<area shape="rect" id="node5" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="163,157,255,183"/>
-<area shape="rect" id="node3" href="$command_8c.html#a07432ef25cd27f78815e4c656fccc586" title=" " alt="" coords="315,32,475,57"/>
-<area shape="rect" id="node4" href="$queue_8c.html#a6a5ba771f956acb7f422c823dd21ad45" title="Ajoute une commande à la file d&#39;attente." alt="" coords="532,5,624,31"/>
-<area shape="rect" id="node6" href="$command__auth_8c.html#a70a1d2080810f9eebebf1b9d296679f3" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="339,157,450,183"/>
-<area shape="rect" id="node15" href="$client_8c.html#a3ac2b447730cc2666a0c7af1656c5214" title="Supprime un client de la liste par son descripteur." alt="" coords="343,283,446,308"/>
-<area shape="rect" id="node7" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="524,257,632,283"/>
-<area shape="rect" id="node10" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="1044,183,1151,208"/>
-<area shape="rect" id="node12" href="$command__msz_8c.html#a8c506861faa708448e7591d45c22e0d0" title="Commande &quot;msz&quot; : envoie la taille de la carte au client." alt="" coords="523,108,633,133"/>
-<area shape="rect" id="node13" href="$command__sgt_8c.html#a84b9a9324a5e9f62a3c261f0a51c1d71" title="Commande &quot;sgt&quot; : envoie la fréquence." alt="" coords="526,207,630,232"/>
-<area shape="rect" id="node14" href="$command__tna_8c.html#a4d0c76e3fa8367d912225ebc2c10266b" title="Commande &quot;tna&quot; : envoie les noms des équipes au client." alt="" coords="526,157,630,183"/>
-<area shape="rect" id="node8" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="681,157,841,183"/>
-<area shape="rect" id="node11" href="$command__bct_8c.html#ae1e6d2b47d7257cb78f97f8777399a34" title="Fonction pour formatter la reponse bct." alt="" coords="689,309,833,335"/>
-<area shape="rect" id="node9" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="889,157,996,183"/>
-<area shape="rect" id="node16" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="537,385,619,411"/>
-<area shape="rect" id="node17" href="$command__pdi_8c.html#a3bc620fd5bafa7a0b1f0ef987fdcd9ac" title="Commande &quot;pdi&quot;: envoie un message de mort du client au GUI." alt="" coords="891,335,994,360"/>
-<area shape="rect" id="node18" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="707,411,815,436"/>
-<area shape="rect" id="node19" href="$queue_8c.html#ac8395c96973c80c935435f6b31479397" title="Libère la mémoire allouée pour la file d&#39;attente." alt="" coords="718,460,805,485"/>
+<area shape="rect" id="Node000001" title="Gère le buffer que le client a envoyé." alt="" coords="5,133,116,159"/>
+<area shape="rect" id="Node000002" href="$command_8c.html#a30ef95eb7117bc7166fa6b264a0ce9b0" title=" " alt="" coords="164,83,288,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,131,170,110,171,115,104,136"/>
+<area shape="rect" id="Node000005" href="$command_8c.html#ac8812ecc2b4b57ff02fcb213ef29432c" title=" " alt="" coords="175,157,277,183"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="117,151,162,158,161,163,116,157"/>
+<area shape="rect" id="Node000003" href="$command_8c.html#a07432ef25cd27f78815e4c656fccc586" title=" " alt="" coords="336,32,515,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="276,80,361,58,362,63,278,85"/>
+<area shape="rect" id="Node000004" href="$queue_8c.html#a6a5ba771f956acb7f422c823dd21ad45" title="Ajoute une commande à la file d&#39;attente." alt="" coords="573,5,673,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="515,30,560,24,560,29,516,35"/>
+<area shape="rect" id="Node000006" href="$command__auth_8c.html#a70a1d2080810f9eebebf1b9d296679f3" title="Fonction pour envoyer les infos au client qui vient de s&#39;authentifier." alt="" coords="364,157,487,183"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="277,167,350,167,350,173,277,173"/>
+<area shape="rect" id="Node000015" href="$client_8c.html#a3ac2b447730cc2666a0c7af1656c5214" title="Supprime un client de la liste par son descripteur." alt="" coords="368,283,483,308"/>
+<area shape="poly" id="edge21_Node000005_Node000015" title=" " alt="" coords="249,180,394,273,391,277,246,185"/>
+<area shape="rect" id="Node000007" href="$command__mct_8c.html#a6c8fcbeeb864903501b3ede8f613645f" title="Commande &quot;mct&quot; : envoie la carte complète au client." alt="" coords="564,257,683,283"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="450,180,564,241,581,249,579,254,561,246,448,185"/>
+<area shape="rect" id="Node000010" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="1123,183,1239,208"/>
+<area shape="poly" id="edge20_Node000006_Node000010" title=" " alt="" coords="442,155,493,122,527,105,562,93,706,60,766,52,822,51,878,55,937,67,1002,87,1076,114,1122,141,1159,171,1156,175,1119,145,1074,119,1000,92,936,73,877,61,822,56,766,58,706,66,563,98,529,110,496,126,445,159"/>
+<area shape="rect" id="Node000012" href="$command__msz_8c.html#a8c506861faa708448e7591d45c22e0d0" title="Commande &quot;msz&quot; : envoie la taille de la carte au client." alt="" coords="563,108,684,133"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="476,155,558,134,559,139,478,160"/>
+<area shape="rect" id="Node000013" href="$command__sgt_8c.html#a84b9a9324a5e9f62a3c261f0a51c1d71" title="Commande &quot;sgt&quot; : envoie la fréquence." alt="" coords="566,207,681,232"/>
+<area shape="poly" id="edge15_Node000006_Node000013" title=" " alt="" coords="478,180,559,201,558,206,476,185"/>
+<area shape="rect" id="Node000014" href="$command__tna_8c.html#a4d0c76e3fa8367d912225ebc2c10266b" title="Commande &quot;tna&quot; : envoie les noms des équipes au client." alt="" coords="566,157,681,183"/>
+<area shape="poly" id="edge18_Node000006_Node000014" title=" " alt="" coords="487,167,552,167,552,173,487,173"/>
+<area shape="rect" id="Node000008" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="732,157,908,183"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="653,255,683,241,783,187,786,192,685,246,656,260"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="683,260,1074,209,1109,204,1109,209,1075,214,683,265"/>
+<area shape="rect" id="Node000011" href="$command__bct_8c.html#ae1e6d2b47d7257cb78f97f8777399a34" title="Fonction pour formatter la reponse bct." alt="" coords="741,309,899,335"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="673,280,759,303,757,308,671,285"/>
+<area shape="rect" id="Node000009" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="956,157,1075,183"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="908,167,942,167,942,173,908,173"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1075,176,1110,182,1109,187,1075,182"/>
+<area shape="poly" id="edge13_Node000012_Node000008" title=" " alt="" coords="675,131,756,151,755,157,674,136"/>
+<area shape="poly" id="edge14_Node000012_Node000010" title=" " alt="" coords="684,114,763,111,861,113,969,122,1075,142,1114,156,1149,173,1146,178,1112,161,1074,147,968,127,861,118,763,117,684,119"/>
+<area shape="poly" id="edge16_Node000013_Node000008" title=" " alt="" coords="674,204,755,183,756,189,675,209"/>
+<area shape="poly" id="edge17_Node000013_Node000010" title=" " alt="" coords="681,214,1109,196,1109,201,681,220"/>
+<area shape="poly" id="edge19_Node000014_Node000008" title=" " alt="" coords="681,167,718,167,718,173,681,173"/>
+<area shape="rect" id="Node000016" href="$client_8c.html#adafc208d043e614f51315a2c827159b9" title="Fonction pour free un client." alt="" coords="578,385,669,411"/>
+<area shape="poly" id="edge22_Node000015_Node000016" title=" " alt="" coords="452,306,587,376,584,381,450,310"/>
+<area shape="rect" id="Node000017" href="$command__pdi_8c.html#a3bc620fd5bafa7a0b1f0ef987fdcd9ac" title="Commande &quot;pdi&quot;: envoie un message de mort du client au GUI." alt="" coords="958,335,1073,360"/>
+<area shape="poly" id="edge23_Node000016_Node000017" title=" " alt="" coords="669,390,944,354,945,359,669,395"/>
+<area shape="rect" id="Node000018" href="$command_8c.html#af812ebad5b9ea657ac601cbc4a847c58" title="Fonction pour free une commande." alt="" coords="760,411,880,436"/>
+<area shape="poly" id="edge25_Node000016_Node000018" title=" " alt="" coords="669,401,747,411,746,417,668,406"/>
+<area shape="rect" id="Node000019" href="$queue_8c.html#ac8395c96973c80c935435f6b31479397" title="Libère la mémoire allouée pour la file d&#39;attente." alt="" coords="773,460,867,485"/>
+<area shape="poly" id="edge26_Node000016_Node000019" title=" " alt="" coords="650,408,733,446,760,455,758,460,731,451,647,413"/>
+<area shape="poly" id="edge24_Node000017_Node000010" title=" " alt="" coords="1029,332,1154,216,1157,220,1032,336"/>
 </map>

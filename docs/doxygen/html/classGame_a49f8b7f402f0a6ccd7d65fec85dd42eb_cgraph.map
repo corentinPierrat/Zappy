@@ -1,6 +1,9 @@
 <map id="Game::removePlayer" name="Game::removePlayer">
-<area shape="rect" id="node1" title=" " alt="" coords="5,55,151,80"/>
-<area shape="rect" id="node2" href="$classTeam.html#a491cc48cda0cfaca9ef65059a52ef54a" title="Récupère le nom de l&#39;équipe." alt="" coords="213,5,327,31"/>
-<area shape="rect" id="node3" href="$classTeam.html#a9ca691c1ee9bdde3d3911583bbabbc40" title="Vérifie si un joueur avec un identifiant donné fait partie de l&#39;équipe." alt="" coords="210,55,330,80"/>
-<area shape="rect" id="node4" href="$classTeam.html#ac460d5b6e15a754e5315dd56ba6b8e15" title="Supprime un joueur de l&#39;équipe en fonction de son identifiant." alt="" coords="199,104,341,129"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,165,80"/>
+<area shape="rect" id="Node000002" href="$classTeam.html#a491cc48cda0cfaca9ef65059a52ef54a" title="Récupère le nom de l&#39;équipe." alt="" coords="229,5,354,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,52,224,31,225,37,140,57"/>
+<area shape="rect" id="Node000003" href="$classTeam.html#a9ca691c1ee9bdde3d3911583bbabbc40" title="Vérifie si un joueur avec un identifiant donné fait partie de l&#39;équipe." alt="" coords="227,55,356,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,65,213,65,213,70,166,70"/>
+<area shape="rect" id="Node000004" href="$classTeam.html#ac460d5b6e15a754e5315dd56ba6b8e15" title="Supprime un joueur de l&#39;équipe en fonction de son identifiant." alt="" coords="213,104,369,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,77,225,98,224,103,138,83"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="handle_flag" name="handle_flag">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,93,56"/>
-<area shape="rect" id="node2" href="$parsing_8c.html#a88a75c5fc6828ffe68aaf6cc1c28f1a5" title=" " alt="" coords="141,5,283,31"/>
-<area shape="rect" id="node4" href="$parsing_8c.html#a3051cf1b0e6193f7649c20a1605e0100" title=" " alt="" coords="144,55,280,80"/>
-<area shape="rect" id="node3" href="$parsing_8c.html#ada5450b2a5fc334042ba0f7d77337b37" title=" " alt="" coords="331,5,452,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,103,56"/>
+<area shape="rect" id="Node000002" href="$parsing_8c.html#a88a75c5fc6828ffe68aaf6cc1c28f1a5" title=" " alt="" coords="151,5,308,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,34,136,29,137,34,103,39"/>
+<area shape="rect" id="Node000004" href="$team_8c.html#a3051cf1b0e6193f7649c20a1605e0100" title="Fonction pour parser les noms des équipes." alt="" coords="154,55,305,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="103,47,141,53,140,58,103,53"/>
+<area shape="rect" id="Node000003" href="$parsing_8c.html#ada5450b2a5fc334042ba0f7d77337b37" title=" " alt="" coords="356,5,489,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="308,15,342,15,342,21,308,21"/>
 </map>

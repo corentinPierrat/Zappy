@@ -1,6 +1,10 @@
 <map id="command_connect_nbr" name="command_connect_nbr">
-<area shape="rect" id="node1" title="Commande &quot;ConnectNbr&quot; : envoie le nombre de slots disponibles." alt="" coords="5,31,163,56"/>
-<area shape="rect" id="node2" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="211,5,371,31"/>
-<area shape="rect" id="node4" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="573,31,680,56"/>
-<area shape="rect" id="node3" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="419,5,525,31"/>
+<area shape="rect" id="Node000001" title="Commande &quot;ConnectNbr&quot; : envoie le nombre de slots disponibles." alt="" coords="5,31,179,56"/>
+<area shape="rect" id="Node000002" href="$check__command__rights_8c.html#a43df3ac9c4168d4237082c2b7c851ebe" title="Fonction pour vérifier si le client peut exécuter une commande." alt="" coords="227,5,403,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,31,213,27,213,32,179,36"/>
+<area shape="rect" id="Node000004" href="$server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078" title="Remplie le buffer d&#39;un client avec un message." alt="" coords="617,31,733,56"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="179,41,603,41,603,46,179,46"/>
+<area shape="rect" id="Node000003" href="$command__bad_8c.html#a2edf3aceeb88d264ab53eccfd0371d6b" title="Commande pour gérer les commandes invalides." alt="" coords="451,5,569,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,15,437,15,437,21,403,21"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="570,24,604,30,604,35,569,30"/>
 </map>

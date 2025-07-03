@@ -1,4 +1,5 @@
 <map id="format_pin_response" name="format_pin_response">
-<area shape="rect" id="node1" title="Fonction pour formatter la reponse pin." alt="" coords="156,5,299,31"/>
-<area shape="rect" id="node2" href="$command__pin_8c.html#ac37719bd76b529455c73eb629b37fce4" title="Commande &quot;pin&quot; : envoie l&#39;inventaire d&#39;un client spécifique." alt="" coords="5,5,108,31"/>
+<area shape="rect" id="Node000001" title="Fonction pour formatter la reponse pin." alt="" coords="168,5,327,31"/>
+<area shape="rect" id="Node000002" href="$command__pin_8c.html#ac37719bd76b529455c73eb629b37fce4" title="Commande &quot;pin&quot; : envoie l&#39;inventaire d&#39;un client spécifique." alt="" coords="5,5,120,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,21,120,21,120,15,154,15"/>
 </map>

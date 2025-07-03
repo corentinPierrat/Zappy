@@ -1,9 +1,15 @@
 <map id="Hud::updatePlayers" name="Hud::updatePlayers">
-<area shape="rect" id="node1" title=" " alt="" coords="5,51,143,76"/>
-<area shape="rect" id="node2" href="$classPlayer.html#a69ee7ea24ebba0be1ab3c7157e7c5ffa" title=" " alt="" coords="379,12,475,37"/>
-<area shape="rect" id="node3" href="$classTeam.html#aa56b061fa31568d2fc546bf56a82a565" title="Récupère la liste des joueurs de l&#39;équipe." alt="" coords="199,25,323,51"/>
-<area shape="rect" id="node4" href="$classGame.html#af7b45f8c6af593b600f71e3fe9f72cb9" title=" " alt="" coords="199,75,322,100"/>
-<area shape="rect" id="node5" href="$classGame.html#a47bc4747dcc4412b69bae2620e895e8f" title=" " alt="" coords="191,124,331,149"/>
-<area shape="rect" id="node6" href="$classPlayer.html#a6df1b6d0bf59b811783c3d9233aab996" title=" " alt="" coords="379,99,474,124"/>
-<area shape="rect" id="node7" href="$classPlayer.html#a9acaa8e0123935e2104dda7973d62fe4" title=" " alt="" coords="379,148,474,173"/>
+<area shape="rect" id="Node000001" title="Met à jour la liste des joueurs et garde en mémoire le joueur sélectionné si possible." alt="" coords="5,55,155,80"/>
+<area shape="rect" id="Node000002" href="$classTeam.html#aa56b061fa31568d2fc546bf56a82a565" title="Récupère la liste des joueurs de l&#39;équipe." alt="" coords="212,5,347,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,52,213,31,215,37,133,57"/>
+<area shape="rect" id="Node000003" href="$classGame.html#af7b45f8c6af593b600f71e3fe9f72cb9" title=" " alt="" coords="213,55,345,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,65,199,65,199,70,155,70"/>
+<area shape="rect" id="Node000004" href="$classGame.html#a47bc4747dcc4412b69bae2620e895e8f" title=" " alt="" coords="203,104,356,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,77,215,98,213,103,131,83"/>
+<area shape="rect" id="Node000005" href="$classPlayer.html#a69ee7ea24ebba0be1ab3c7157e7c5ffa" title="Récupère l&#39;identifiant du joueur." alt="" coords="404,55,508,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="325,101,395,81,397,86,326,107"/>
+<area shape="rect" id="Node000006" href="$classPlayer.html#a6df1b6d0bf59b811783c3d9233aab996" title="Récupère la position X du joueur." alt="" coords="405,104,507,129"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="356,114,392,114,392,119,356,119"/>
+<area shape="rect" id="Node000007" href="$classPlayer.html#a9acaa8e0123935e2104dda7973d62fe4" title="Récupère la position Y du joueur." alt="" coords="406,153,506,179"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="326,127,397,147,395,152,325,132"/>
 </map>

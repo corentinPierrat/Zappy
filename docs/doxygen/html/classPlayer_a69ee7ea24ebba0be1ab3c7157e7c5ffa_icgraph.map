@@ -1,11 +1,23 @@
 <map id="Player::getId" name="Player::getId">
-<area shape="rect" id="node1" title=" " alt="" coords="776,82,872,107"/>
-<area shape="rect" id="node2" href="$classHud.html#a6b8e14bbba4b09e41ba4f764ad67abfd" title=" " alt="" coords="172,6,345,31"/>
-<area shape="rect" id="node4" href="$classGame.html#a7494872cb13371cc87169ebb7a16f885" title=" " alt="" coords="393,132,540,158"/>
-<area shape="rect" id="node5" href="$classGame.html#a79df6376b332d63c9eca0dcee30305c3" title=" " alt="" coords="207,132,311,158"/>
-<area shape="rect" id="node8" href="$classGame.html#a47bc4747dcc4412b69bae2620e895e8f" title=" " alt="" coords="588,82,728,107"/>
-<area shape="rect" id="node9" href="$classHud.html#aa1ab0d738742082470659860ce7aa9be" title=" " alt="" coords="398,31,535,56"/>
-<area shape="rect" id="node3" href="$classHud.html#af564989e82c5fb7eb4bf01d5f1a6bed3" title=" " alt="" coords="23,6,106,31"/>
-<area shape="rect" id="node6" href="$classClient.html#ad2cfacbefea1e51e34c4697403fb82cb" title=" " alt="" coords="23,156,106,182"/>
-<area shape="rect" id="node7" href="$classGame.html#abc9436a9d18e48c6e1e4fbc4ea879449" title=" " alt="" coords="5,107,124,132"/>
+<area shape="rect" id="Node000001" title="Récupère l&#39;identifiant du joueur." alt="" coords="831,107,935,132"/>
+<area shape="rect" id="Node000002" href="$classHud.html#a6b8e14bbba4b09e41ba4f764ad67abfd" title="Affiche l&#39;inventaire du joueur sélectionné et permet de le faire défiler avec G/H." alt="" coords="183,5,373,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="847,102,782,71,683,38,581,21,474,14,374,15,374,9,474,8,582,15,685,33,784,66,849,97"/>
+<area shape="rect" id="Node000004" href="$classGame.html#a7494872cb13371cc87169ebb7a16f885" title=" " alt="" coords="421,132,581,157"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="818,126,582,142,581,137,817,121"/>
+<area shape="rect" id="Node000005" href="$classGame.html#a79df6376b332d63c9eca0dcee30305c3" title=" " alt="" coords="221,132,335,157"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="818,138,783,145,682,163,603,174,523,177,421,171,335,159,336,154,422,166,523,172,603,168,682,158,782,139,817,132"/>
+<area shape="rect" id="Node000008" href="$classGame.html#a47bc4747dcc4412b69bae2620e895e8f" title=" " alt="" coords="629,81,783,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="817,113,783,108,783,102,818,107"/>
+<area shape="rect" id="Node000003" href="$classHud.html#af564989e82c5fb7eb4bf01d5f1a6bed3" title="Fonction principale de rendu du HUD." alt="" coords="26,5,114,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,21,114,21,114,15,169,15"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="407,147,335,147,335,142,407,142"/>
+<area shape="rect" id="Node000006" href="$classClient.html#ad2cfacbefea1e51e34c4697403fb82cb" title="Lance la boucle principale du client, gérant la réception et l’affichage." alt="" coords="25,156,115,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="207,155,115,166,115,161,207,150"/>
+<area shape="rect" id="Node000007" href="$classGame.html#abc9436a9d18e48c6e1e4fbc4ea879449" title=" " alt="" coords="5,107,135,132"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="207,139,135,130,135,125,207,133"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="641,113,554,135,553,129,640,107"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="616,103,422,122,336,136,335,131,421,117,616,97"/>
+<area shape="rect" id="Node000009" href="$classHud.html#aa1ab0d738742082470659860ce7aa9be" title="Met à jour la liste des joueurs et garde en mémoire le joueur sélectionné si possible." alt="" coords="427,31,576,56"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="640,81,553,59,554,53,641,75"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="413,36,373,31,374,26,414,31"/>
 </map>

@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['search_5fpriority_5fresources_0',['search_priority_resources',['../classclient_1_1MovementManager.html#ad58dad21d0446b8be9857592487cf714',1,'client::MovementManager']]],
-  ['send_1',['send',['../classclient_1_1NetworkManager.html#a2975f3030641b5cb43890d1df4dc4e39',1,'client::NetworkManager']]],
+  ['search_5fpriority_5fresources_0',['search_priority_resources',['../classclient_1_1MovementManager.html#a03305f27a21374d7cf9a9187d8094556',1,'client::MovementManager']]],
+  ['send_1',['send',['../classclient_1_1NetworkManager.html#ad0518fc51e1cae9eb94104a6d1972efa',1,'client::NetworkManager']]],
   ['send_5flvl_2',['send_lvl',['../command__incantation_8c.html#afb8682afed0e4cbf46152156ac5e646d',1,'command_incantation.c']]],
-  ['send_5fnext_5fcommand_3',['send_next_command',['../classclient_1_1Client.html#a7a74c806c10b25ebaba9df4b70f7f7c6',1,'client::Client']]],
+  ['send_5fnext_5fcommand_3',['send_next_command',['../classclient_1_1Client.html#a028de89045c4f57920d6be477ed3bf62',1,'client::Client']]],
   ['send_5fto_5fclient_4',['send_to_client',['../my_8h.html#acfafb3fbd7c79b7d2e4cde0ca317d078',1,'send_to_client(server_t *server, client_t *client, char *msg):&#160;server.c'],['../server_8c.html#acfafb3fbd7c79b7d2e4cde0ca317d078',1,'send_to_client(server_t *server, client_t *client, char *msg):&#160;server.c']]],
-  ['sendmessage_5',['sendMessage',['../classIClient.html#a1957b23fdb8536aac0ef5a389fb7dbbc',1,'IClient::sendMessage()'],['../classClient.html#ae2470036ac1f1cf78dd321a4645bd9a5',1,'Client::sendMessage()']]],
+  ['sendmessage_5',['sendmessage',['../classIClient.html#a1957b23fdb8536aac0ef5a389fb7dbbc',1,'IClient::sendMessage()'],['../classClient.html#ae2470036ac1f1cf78dd321a4645bd9a5',1,'Client::sendMessage()']]],
   ['set_5fnumeric_5fflag_6',['set_numeric_flag',['../parsing_8c.html#ada5450b2a5fc334042ba0f7d77337b37',1,'parsing.c']]],
   ['setdrawmsgbroadcast_7',['setDrawMsgBroadcast',['../classPlayer.html#a3156c841bbed702a9ec104dd7cdd94a4',1,'Player']]],
   ['setendgame_8',['setEndGame',['../classGame.html#a1624ea02564e4aa3cd10c4b66911e027',1,'Game']]],
@@ -17,15 +17,15 @@ var searchData=
   ['setmaptilesize_14',['setMapTileSize',['../classGame.html#a8850cd6e5c17ee0308e9b1e079576e8a',1,'Game']]],
   ['setmsgbroadcast_15',['setMsgBroadcast',['../classPlayer.html#ab0d20d1315175d87bab09a896fb3258c',1,'Player']]],
   ['setorientation_16',['setOrientation',['../classPlayer.html#a12087ed008ea68782d9388b6c6621ad5',1,'Player']]],
-  ['setposition_17',['setPosition',['../classIncantation.html#ab8d2dd491cf5b0507790363a934b9d64',1,'Incantation::setPosition()'],['../classPlayer.html#a0beac62fb5b35d68e47fef56752b0368',1,'Player::setPosition()'],['../classEgg.html#a09b6eb4393a57417b09b8d969294c5aa',1,'Egg::setPosition()'],['../classCampfire.html#af2a16acf30e334c7af50727253782d51',1,'Campfire::setPosition()']]],
+  ['setposition_17',['setposition',['../classIncantation.html#ab8d2dd491cf5b0507790363a934b9d64',1,'Incantation::setPosition()'],['../classPlayer.html#a0beac62fb5b35d68e47fef56752b0368',1,'Player::setPosition()'],['../classEgg.html#a09b6eb4393a57417b09b8d969294c5aa',1,'Egg::setPosition()'],['../classCampfire.html#af2a16acf30e334c7af50727253782d51',1,'Campfire::setPosition()']]],
   ['setteamwinner_18',['setTeamWinner',['../classGame.html#a80bc367c695ccfbc7bf3259dec89ecf5',1,'Game']]],
   ['settile_19',['setTile',['../classGame.html#abd9606dfca56910e29c505ad58bc2bbc',1,'Game']]],
-  ['should_5fdo_5finventory_5fcheck_20',['should_do_inventory_check',['../classclient_1_1CoordinationManager.html#a81d629d081fd5a969e4bfd48faa00326',1,'client::CoordinationManager']]],
+  ['should_5fdo_5finventory_5fcheck_20',['should_do_inventory_check',['../classclient_1_1CoordinationManager.html#ab864b7a4ae57fcb65bcea947e6acc336',1,'client::CoordinationManager']]],
   ['signal_5fhandler_21',['signal_handler',['../server_8c.html#af675374954cdabdf63d036fe3c12d348',1,'server.c']]],
   ['slidercontrol_22',['SliderControl',['../classSliderControl.html#af9caaa0a638d7ae4dc4897bd3dc04086',1,'SliderControl']]],
   ['spawn_5fitem_23',['spawn_item',['../map_8c.html#a88547aeed8b743ef879cdb40d57bb289',1,'map.c']]],
   ['spawn_5fressources_24',['spawn_ressources',['../my_8h.html#acad87a0fe528d93154f340fd7596cdcf',1,'spawn_ressources(server_t *server, bool respawn):&#160;map.c'],['../map_8c.html#aa18bc356359f3b2e71dc5a28d47c933d',1,'spawn_ressources(server_t *serv, bool respawn):&#160;map.c']]],
-  ['start_5fcoordination_25',['start_coordination',['../classclient_1_1CoordinationManager.html#ae26299b995dbd46081e12df107865da3',1,'client::CoordinationManager']]],
-  ['start_5fincantations_26',['start_incantations',['../classclient_1_1CoordinationManager.html#a6a74730b5821c7168a27350f3120607d',1,'client::CoordinationManager']]],
-  ['start_5fjoining_27',['start_joining',['../classclient_1_1CoordinationManager.html#ae5b87a2e8bc5d6521b03e14cdb1a1926',1,'client::CoordinationManager']]]
+  ['start_5fcoordination_25',['start_coordination',['../classclient_1_1CoordinationManager.html#a40c33178f68d55938b6256f611bfd930',1,'client::CoordinationManager']]],
+  ['start_5fincantations_26',['start_incantations',['../classclient_1_1CoordinationManager.html#af3bdb822a8a86776b6769832ccb95d81',1,'client::CoordinationManager']]],
+  ['start_5fjoining_27',['start_joining',['../classclient_1_1CoordinationManager.html#a963ced92e3f649b0e19b066428bbedc7',1,'client::CoordinationManager']]]
 ];

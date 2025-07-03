@@ -1,5 +1,7 @@
 <map id="Game::getFrequence" name="Game::getFrequence">
-<area shape="rect" id="node1" title=" " alt="" coords="377,5,521,31"/>
-<area shape="rect" id="node2" href="$classCommand.html#aa34d7fe2829c21690eef292bfc779069" title=" " alt="" coords="136,5,329,31"/>
-<area shape="rect" id="node3" href="$classClient.html#ad2cfacbefea1e51e34c4697403fb82cb" title=" " alt="" coords="5,5,88,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="401,5,559,31"/>
+<area shape="rect" id="Node000002" href="$classCommand.html#aa34d7fe2829c21690eef292bfc779069" title=" " alt="" coords="143,5,353,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,21,354,21,354,15,388,15"/>
+<area shape="rect" id="Node000003" href="$classClient.html#ad2cfacbefea1e51e34c4697403fb82cb" title="Lance la boucle principale du client, gérant la réception et l’affichage." alt="" coords="5,5,95,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,21,95,21,95,15,129,15"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="SliderControl::Update" name="SliderControl::Update">
-<area shape="rect" id="node1" title=" " alt="" coords="203,5,349,31"/>
-<area shape="rect" id="node2" href="$classHud.html#a85d23e100dc88484a9a2d2b947c0dee3" title=" " alt="" coords="5,5,155,31"/>
+<area shape="rect" id="Node000001" title="Met à jour la valeur du slider selon la position de la souris." alt="" coords="217,5,379,31"/>
+<area shape="rect" id="Node000002" href="$classHud.html#a85d23e100dc88484a9a2d2b947c0dee3" title="Affiche le menu lorsque le joueur appuie sur Échap (pause)." alt="" coords="5,5,169,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,21,170,21,170,15,203,15"/>
 </map>

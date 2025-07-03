@@ -1,6 +1,9 @@
 <map id="Team::getName" name="Team::getName">
-<area shape="rect" id="node1" title="Récupère le nom de l&#39;équipe." alt="" coords="329,31,444,56"/>
-<area shape="rect" id="node2" href="$classHud.html#a74884feaf8df98471109360510b769e8" title=" " alt="" coords="151,5,266,31"/>
-<area shape="rect" id="node4" href="$classGame.html#a49f8b7f402f0a6ccd7d65fec85dd42eb" title=" " alt="" coords="136,55,281,80"/>
-<area shape="rect" id="node3" href="$classHud.html#af564989e82c5fb7eb4bf01d5f1a6bed3" title=" " alt="" coords="5,5,88,31"/>
+<area shape="rect" id="Node000001" title="Récupère le nom de l&#39;équipe." alt="" coords="349,31,475,56"/>
+<area shape="rect" id="Node000002" href="$classHud.html#a74884feaf8df98471109360510b769e8" title="Affiche les noms des équipes avec des couleurs distinctes." alt="" coords="160,5,283,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,36,283,29,283,23,336,31"/>
+<area shape="rect" id="Node000004" href="$classGame.html#a49f8b7f402f0a6ccd7d65fec85dd42eb" title=" " alt="" coords="141,55,301,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,56,302,60,301,55,335,50"/>
+<area shape="rect" id="Node000003" href="$classHud.html#af564989e82c5fb7eb4bf01d5f1a6bed3" title="Fonction principale de rendu du HUD." alt="" coords="5,5,93,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,21,94,21,94,15,146,15"/>
 </map>

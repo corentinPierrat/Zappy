@@ -7,5 +7,5 @@ var searchData=
   ['size_4',['size',['../structqueue__s.html#ac5d91ec34af231847ccf855c1f6905d8',1,'queue_s']]],
   ['slots_5',['slots',['../classclient_1_1GameState.html#acab8d6d52718e9636b81adfa56a7ba91',1,'client::GameState']]],
   ['sock_6',['sock',['../classclient_1_1NetworkManager.html#ae5f14d1fae7944711137e6bd03b586b4',1,'client::NetworkManager']]],
-  ['start_5ftime_7',['start_time',['../structcommand__s.html#a72cb29b4fce2019f1f8c77aa3453a513',1,'command_s']]]
+  ['start_5ftime_7',['start_time',['../classclient_1_1CommandManager.html#ac490b6fbf7c5749addf09e5bf7ef29f0',1,'client.CommandManager.start_time'],['../structcommand__s.html#a72cb29b4fce2019f1f8c77aa3453a513',1,'command_s::start_time']]]
 ];

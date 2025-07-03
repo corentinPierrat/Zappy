@@ -1,10 +1,18 @@
 <map id="Game::isValidPlayer" name="Game::isValidPlayer">
-<area shape="rect" id="node1" title=" " alt="" coords="588,56,728,81"/>
-<area shape="rect" id="node2" href="$classGame.html#a7494872cb13371cc87169ebb7a16f885" title=" " alt="" coords="393,5,540,31"/>
-<area shape="rect" id="node3" href="$classGame.html#a79df6376b332d63c9eca0dcee30305c3" title=" " alt="" coords="207,32,311,57"/>
-<area shape="rect" id="node6" href="$classHud.html#aa1ab0d738742082470659860ce7aa9be" title=" " alt="" coords="398,107,535,132"/>
-<area shape="rect" id="node4" href="$classClient.html#ad2cfacbefea1e51e34c4697403fb82cb" title=" " alt="" coords="23,8,106,33"/>
-<area shape="rect" id="node5" href="$classGame.html#abc9436a9d18e48c6e1e4fbc4ea879449" title=" " alt="" coords="5,57,124,83"/>
-<area shape="rect" id="node7" href="$classHud.html#a6b8e14bbba4b09e41ba4f764ad67abfd" title=" " alt="" coords="172,107,345,132"/>
-<area shape="rect" id="node8" href="$classHud.html#af564989e82c5fb7eb4bf01d5f1a6bed3" title=" " alt="" coords="23,107,106,132"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="629,56,783,81"/>
+<area shape="rect" id="Node000002" href="$classGame.html#a7494872cb13371cc87169ebb7a16f885" title=" " alt="" coords="421,5,581,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="640,55,553,33,554,28,641,50"/>
+<area shape="rect" id="Node000003" href="$classGame.html#a79df6376b332d63c9eca0dcee30305c3" title=" " alt="" coords="221,32,335,57"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="615,66,336,51,336,45,616,61"/>
+<area shape="rect" id="Node000006" href="$classHud.html#aa1ab0d738742082470659860ce7aa9be" title="Met à jour la liste des joueurs et garde en mémoire le joueur sélectionné si possible." alt="" coords="427,107,576,132"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="641,87,554,109,553,104,640,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,32,336,41,335,35,407,27"/>
+<area shape="rect" id="Node000004" href="$classClient.html#ad2cfacbefea1e51e34c4697403fb82cb" title="Lance la boucle principale du client, gérant la réception et l’affichage." alt="" coords="25,8,115,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,39,115,28,115,23,207,34"/>
+<area shape="rect" id="Node000005" href="$classGame.html#abc9436a9d18e48c6e1e4fbc4ea879449" title=" " alt="" coords="5,57,135,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="207,56,135,65,135,60,207,51"/>
+<area shape="rect" id="Node000007" href="$classHud.html#a6b8e14bbba4b09e41ba4f764ad67abfd" title="Affiche l&#39;inventaire du joueur sélectionné et permet de le faire défiler avec G/H." alt="" coords="183,107,373,132"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="413,122,374,122,374,117,413,117"/>
+<area shape="rect" id="Node000008" href="$classHud.html#af564989e82c5fb7eb4bf01d5f1a6bed3" title="Fonction principale de rendu du HUD." alt="" coords="26,107,114,132"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="169,122,114,122,114,117,169,117"/>
 </map>

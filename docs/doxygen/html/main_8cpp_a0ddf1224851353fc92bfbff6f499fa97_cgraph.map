@@ -1,9 +1,15 @@
 <map id="main" name="main">
-<area shape="rect" id="node1" title="Fonction principale du client." alt="" coords="5,105,56,131"/>
-<area shape="rect" id="node2" href="$classMenu.html#a369f4d2ec02d9b0ddf65a676881b9bbe" title=" " alt="" coords="125,80,265,105"/>
-<area shape="rect" id="node7" href="$classMenu.html#afea174abd6c776733fb57d66e48c7d9b" title=" " alt="" coords="104,129,287,155"/>
-<area shape="rect" id="node3" href="$classButton.html#a6aaa2b781c933a296f41a8eca890eb1f" title=" " alt="" coords="345,5,444,31"/>
-<area shape="rect" id="node4" href="$classTextBox.html#aa7f242b97c2163755b5046eca6134eb6" title=" " alt="" coords="340,55,449,80"/>
-<area shape="rect" id="node5" href="$classTextBox.html#a4967d66f86a624d465fde2fb20a37e9d" title=" " alt="" coords="335,104,455,129"/>
-<area shape="rect" id="node6" href="$classButton.html#a23e8bc9ad05142244ea4e79a406a6c9c" title=" " alt="" coords="339,153,450,179"/>
+<area shape="rect" id="Node000001" title="Fonction principale du client." alt="" coords="5,105,60,131"/>
+<area shape="rect" id="Node000002" href="$classMenu.html#a369f4d2ec02d9b0ddf65a676881b9bbe" title="Affiche le menu et récupère les données saisies par l&#39;utilisateur." alt="" coords="131,80,285,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,112,116,103,117,108,61,117"/>
+<area shape="rect" id="Node000007" href="$classMenu.html#afea174abd6c776733fb57d66e48c7d9b" title="Met à jour le message d&#39;erreur affiché à l&#39;écran." alt="" coords="108,129,308,155"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="61,119,102,125,101,130,60,124"/>
+<area shape="rect" id="Node000003" href="$classButton.html#a6aaa2b781c933a296f41a8eca890eb1f" title="Dessine le bouton à l&#39;écran avec effet visuel selon l&#39;état." alt="" coords="367,5,474,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,77,370,33,372,38,246,82"/>
+<area shape="rect" id="Node000004" href="$classTextBox.html#aa7f242b97c2163755b5046eca6134eb6" title="Dessine la TextBox à l&#39;écran." alt="" coords="363,55,479,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="285,81,348,73,349,78,286,86"/>
+<area shape="rect" id="Node000005" href="$classTextBox.html#a4967d66f86a624d465fde2fb20a37e9d" title="Met à jour l&#39;état de la TextBox (saisie clavier, clics souris)." alt="" coords="356,104,485,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="286,99,342,105,342,110,285,104"/>
+<area shape="rect" id="Node000006" href="$classButton.html#a23e8bc9ad05142244ea4e79a406a6c9c" title="Met à jour l&#39;état du bouton (clics souris)." alt="" coords="361,153,481,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="272,103,309,114,333,126,357,138,374,146,372,150,355,143,331,130,307,119,270,108"/>
 </map>

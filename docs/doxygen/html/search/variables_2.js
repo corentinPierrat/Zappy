@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['client_5fid_0',['client_id',['../classclient_1_1CoordinationManager.html#ad2c0aa83b13fb1cae12dd0a12a0115c3',1,'client.CoordinationManager.client_id()'],['../classclient_1_1BroadcastManager.html#aa36cf3cf83de0d74d77ae7b708e5a5dc',1,'client.BroadcastManager.client_id()'],['../classclient_1_1NetworkManager.html#adfce0e08b9c4159594bad997acc79dbf',1,'client.NetworkManager.client_id()']]],
+  ['client_5fid_0',['client_id',['../classclient_1_1CoordinationManager.html#ad2c0aa83b13fb1cae12dd0a12a0115c3',1,'client.CoordinationManager.client_id'],['../classclient_1_1BroadcastManager.html#aa36cf3cf83de0d74d77ae7b708e5a5dc',1,'client.BroadcastManager.client_id'],['../classclient_1_1NetworkManager.html#adfce0e08b9c4159594bad997acc79dbf',1,'client.NetworkManager.client_id']]],
   ['client_5fids_1',['client_ids',['../classclient_1_1CoordinationManager.html#a80385c05de954f4081a234c7417efa83',1,'client::CoordinationManager']]],
   ['clients_2',['clients',['../structserver__s.html#a44bb3e5e860bf4c229b3a1f380b856b7',1,'server_s']]],
   ['clients_5fwho_5fdropped_3',['clients_who_dropped',['../classclient_1_1CoordinationManager.html#a2590196dee47b0867c5a52ebb97dc88d',1,'client::CoordinationManager']]],
   ['collection_5fcomplete_4',['collection_complete',['../classclient_1_1GameState.html#a1ff0f1ead0f2eba6a7273e499676ab98',1,'client::GameState']]],
-  ['command_5',['command',['../structcommand__s.html#a2fc6b3598d2c6cce57fd34224f622fe1',1,'command_s::command()'],['../structnode__s.html#af53b1dbcc4e258fa277bc623450af1d1',1,'node_s::command()'],['../structtab__s.html#a2a255410d0ffcba47ef11cf989cd3810',1,'tab_s::command()']]],
+  ['command_5',['command',['../structcommand__s.html#a2fc6b3598d2c6cce57fd34224f622fe1',1,'command_s::command'],['../structnode__s.html#af53b1dbcc4e258fa277bc623450af1d1',1,'node_s::command'],['../structtab__s.html#a2a255410d0ffcba47ef11cf989cd3810',1,'tab_s::command']]],
   ['command_5fmanager_6',['command_manager',['../classclient_1_1Client.html#a3b5d876e4d4c756ecfb9855479f42ab4',1,'client::Client']]],
   ['command_5fqueue_7',['command_queue',['../classclient_1_1CommandManager.html#ae853d279cd29c2ee337c5f580e48ac36',1,'client::CommandManager']]],
   ['commands_5fin_5fwait_8',['commands_in_wait',['../classclient_1_1CommandManager.html#af939985d062ada84a6ecd81ad87da2d1',1,'client::CommandManager']]],

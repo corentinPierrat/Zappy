@@ -1,10 +1,20 @@
 <map id="gui/Player.cpp" name="gui/Player.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="142,5,247,31"/>
-<area shape="rect" id="node2" href="$Player_8hpp.html" title=" " alt="" coords="101,79,185,104"/>
-<area shape="rect" id="node6" href="$Team_8hpp.html" title=" " alt="" coords="222,79,301,104"/>
-<area shape="rect" id="node3" title=" " alt="" coords="166,152,221,177"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,152,67,177"/>
-<area shape="rect" id="node5" title=" " alt="" coords="91,152,141,177"/>
-<area shape="rect" id="node7" title=" " alt="" coords="245,152,304,177"/>
-<area shape="rect" id="node8" title=" " alt="" coords="328,152,397,177"/>
+<area shape="rect" id="Node000001" title="Implémentation de la classe Player représentant un joueur dans le jeu Zappy." alt="" coords="151,5,265,31"/>
+<area shape="rect" id="Node000002" href="$Player_8hpp.html" title=" " alt="" coords="107,79,197,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,33,172,69,167,66,197,29"/>
+<area shape="rect" id="Node000006" href="$Team_8hpp.html" title=" " alt="" coords="248,79,333,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="223,29,268,67,265,72,220,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="176,152,235,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,103,191,140,186,143,159,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="135,106,70,147,67,142,132,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="96,152,152,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="150,105,136,140,131,138,145,103"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="279,106,231,145,228,141,275,102"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="259,152,322,177"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="293,104,293,138,288,138,288,104"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="347,152,424,177"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="307,102,360,141,357,146,304,106"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="448,152,512,177"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="322,102,437,144,435,149,320,107"/>
 </map>
